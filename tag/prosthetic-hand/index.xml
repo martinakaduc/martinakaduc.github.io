@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>prosthetic hand | Martin Nguyen</title>
+    <link>https://martinakaduc.github.io/tag/prosthetic-hand/</link>
+      <atom:link href="https://martinakaduc.github.io/tag/prosthetic-hand/index.xml" rel="self" type="application/rss+xml" />
+    <description>prosthetic hand</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 17 Oct 2020 14:54:00 +0000</lastBuildDate>
+    <image>
+      <url>https://martinakaduc.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>prosthetic hand</title>
+      <link>https://martinakaduc.github.io/tag/prosthetic-hand/</link>
+    </image>
+    
+    <item>
+      <title>Design, implementation and evaluation for a high precision prosthetic hand using MyoBand and Random Forest algorithm</title>
+      <link>https://martinakaduc.github.io/publication/design-implementation-and-evaluation-for-a-high-precision-prosthetic-hand-using-myoband-and-random-forest-algorithm/</link>
+      <pubDate>Sat, 17 Oct 2020 14:54:00 +0000</pubDate>
+      <guid>https://martinakaduc.github.io/publication/design-implementation-and-evaluation-for-a-high-precision-prosthetic-hand-using-myoband-and-random-forest-algorithm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

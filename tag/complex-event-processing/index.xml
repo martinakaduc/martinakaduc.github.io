@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>complex event processing | Martin Nguyen</title>
+    <link>https://martinakaduc.github.io/tag/complex-event-processing/</link>
+      <atom:link href="https://martinakaduc.github.io/tag/complex-event-processing/index.xml" rel="self" type="application/rss+xml" />
+    <description>complex event processing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 Nov 2021 15:28:54 +0000</lastBuildDate>
+    <image>
+      <url>https://martinakaduc.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>complex event processing</title>
+      <link>https://martinakaduc.github.io/tag/complex-event-processing/</link>
+    </image>
+    
+    <item>
+      <title>Realtime Bushfire Detection with Spatial-based Complex Event Processing</title>
+      <link>https://martinakaduc.github.io/publication/realtime-bushfire-detection-with-spatial-based-complex-event-processing/</link>
+      <pubDate>Wed, 24 Nov 2021 15:28:54 +0000</pubDate>
+      <guid>https://martinakaduc.github.io/publication/realtime-bushfire-detection-with-spatial-based-complex-event-processing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

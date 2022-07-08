@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spatial query | Martin Nguyen</title>
+    <link>https://martinakaduc.github.io/tag/spatial-query/</link>
+      <atom:link href="https://martinakaduc.github.io/tag/spatial-query/index.xml" rel="self" type="application/rss+xml" />
+    <description>spatial query</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 Nov 2021 15:28:54 +0000</lastBuildDate>
+    <image>
+      <url>https://martinakaduc.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>spatial query</title>
+      <link>https://martinakaduc.github.io/tag/spatial-query/</link>
+    </image>
+    
+    <item>
+      <title>Realtime Bushfire Detection with Spatial-based Complex Event Processing</title>
+      <link>https://martinakaduc.github.io/publication/realtime-bushfire-detection-with-spatial-based-complex-event-processing/</link>
+      <pubDate>Wed, 24 Nov 2021 15:28:54 +0000</pubDate>
+      <guid>https://martinakaduc.github.io/publication/realtime-bushfire-detection-with-spatial-based-complex-event-processing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bioinformatics | Martin Nguyen</title>
+    <link>https://martinakaduc.github.io/tag/bioinformatics/</link>
+      <atom:link href="https://martinakaduc.github.io/tag/bioinformatics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bioinformatics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 May 2022 15:38:33 +0000</lastBuildDate>
+    <image>
+      <url>https://martinakaduc.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Bioinformatics</title>
+      <link>https://martinakaduc.github.io/tag/bioinformatics/</link>
+    </image>
+    
+    <item>
+      <title>BeCaked: An Explainable Artificial Intelligence Model for COVID-19 Forecasting</title>
+      <link>https://martinakaduc.github.io/publication/becaked-an-explainable-artificial-intelligence-model-for-covid-19-forecasting/</link>
+      <pubDate>Fri, 13 May 2022 15:38:33 +0000</pubDate>
+      <guid>https://martinakaduc.github.io/publication/becaked-an-explainable-artificial-intelligence-model-for-covid-19-forecasting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
