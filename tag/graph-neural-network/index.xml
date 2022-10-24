@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graph Neural Network | Martin Nguyen</title>
+    <link>https://martinakaduc.github.io/tag/graph-neural-network/</link>
+      <atom:link href="https://martinakaduc.github.io/tag/graph-neural-network/index.xml" rel="self" type="application/rss+xml" />
+    <description>Graph Neural Network</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 07:12:24 +0000</lastBuildDate>
+    <image>
+      <url>https://martinakaduc.github.io/media/icon_hu263ca39e98b046b5641ca652ce5a1514_340372_512x512_fill_lanczos_center_3.png</url>
+      <title>Graph Neural Network</title>
+      <link>https://martinakaduc.github.io/tag/graph-neural-network/</link>
+    </image>
+    
+    <item>
+      <title>Towards de Novo Drug Design for the Coronavirus: A Drug-Target Interaction Prediction Approach Using Atom-Enhanced Graph Neural Network with Multi-Hop Gating Mechanism</title>
+      <link>https://martinakaduc.github.io/publication/towards-de-novo-drug-design-for-the-coronavirus-a-drug-target-interaction-prediction-approach-using-atom-enhanced-graph-neural-network-with-multi-hop-gating-mechanism/</link>
+      <pubDate>Mon, 24 Oct 2022 07:12:24 +0000</pubDate>
+      <guid>https://martinakaduc.github.io/publication/towards-de-novo-drug-design-for-the-coronavirus-a-drug-target-interaction-prediction-approach-using-atom-enhanced-graph-neural-network-with-multi-hop-gating-mechanism/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
