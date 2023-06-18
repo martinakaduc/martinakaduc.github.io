@@ -5,12 +5,20 @@
     <link>https://martinakaduc.github.io/tag/artificial-intelligence/</link>
       <atom:link href="https://martinakaduc.github.io/tag/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
     <description>Artificial Intelligence</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 07:12:24 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 18 Jun 2023 08:17:49 +0000</lastBuildDate>
     <image>
       <url>https://martinakaduc.github.io/media/icon_hu263ca39e98b046b5641ca652ce5a1514_340372_512x512_fill_lanczos_center_3.png</url>
       <title>Artificial Intelligence</title>
       <link>https://martinakaduc.github.io/tag/artificial-intelligence/</link>
     </image>
+    
+    <item>
+      <title>Social Bot Detector using Graph Neural Networks</title>
+      <link>https://martinakaduc.github.io/publication/social-bot-detector-using-graph-neural-networks/</link>
+      <pubDate>Sun, 18 Jun 2023 08:17:49 +0000</pubDate>
+      <guid>https://martinakaduc.github.io/publication/social-bot-detector-using-graph-neural-networks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Towards de Novo Drug Design for the Coronavirus: A Drug-Target Interaction Prediction Approach Using Atom-Enhanced Graph Neural Network with Multi-Hop Gating Mechanism</title>
