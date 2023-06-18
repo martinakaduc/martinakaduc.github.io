@@ -5,12 +5,20 @@
     <link>https://martinakaduc.github.io/publication-type/1/</link>
       <atom:link href="https://martinakaduc.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 18 Jun 2023 08:17:49 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 18 Jun 2023 09:41:34 +0000</lastBuildDate>
     <image>
       <url>https://martinakaduc.github.io/media/icon_hu263ca39e98b046b5641ca652ce5a1514_340372_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://martinakaduc.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>10X Faster Subgraph Matching: Dual Matching Networks with Interleaved Diffusion Attention</title>
+      <link>https://martinakaduc.github.io/publication/10x-faster-subgraph-matching-dual-matching-networks-with-interleaved-diffusion-attention/</link>
+      <pubDate>Sun, 18 Jun 2023 09:41:34 +0000</pubDate>
+      <guid>https://martinakaduc.github.io/publication/10x-faster-subgraph-matching-dual-matching-networks-with-interleaved-diffusion-attention/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Social Bot Detector using Graph Neural Networks</title>
