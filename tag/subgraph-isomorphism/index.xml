@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Subgraph Isomorphism | Martin Nguyen</title>
+    <title>Subgraph Isomorphism | Duc Q. Nguyen</title>
     <link>https://martinakaduc.github.io/tag/subgraph-isomorphism/</link>
       <atom:link href="https://martinakaduc.github.io/tag/subgraph-isomorphism/index.xml" rel="self" type="application/rss+xml" />
     <description>Subgraph Isomorphism</description>

@@ -1,16 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 | Martin Nguyen</title>
+    <title>1 | Duc Q. Nguyen</title>
     <link>https://martinakaduc.github.io/publication-type/1/</link>
       <atom:link href="https://martinakaduc.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 18 Jun 2023 09:41:34 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martinakaduc.github.io/media/icon_hu263ca39e98b046b5641ca652ce5a1514_340372_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://martinakaduc.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>BaNaVA: A cross-platform AI mobile application for preserving the Bahnaric languages</title>
+      <link>https://martinakaduc.github.io/publication/banava-a-cross-platform-ai-mobile-application-for-preserving-the-bahnaric-languages/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://martinakaduc.github.io/publication/banava-a-cross-platform-ai-mobile-application-for-preserving-the-bahnaric-languages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unlocking the Potential: an evaluation of Text-to-Speech Models for the Bahnar Language</title>
+      <link>https://martinakaduc.github.io/publication/unlocking-the-potential-an-evaluation-of-text-to-speech-models-for-the-bahnar-language/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://martinakaduc.github.io/publication/unlocking-the-potential-an-evaluation-of-text-to-speech-models-for-the-bahnar-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel approach for non-query fake news detection using K-SOM and Graph Neural Networks</title>
+      <link>https://martinakaduc.github.io/publication/a-novel-approach-for-non-query-fake-news-detection-using-k-som-and-graph-neural-networks/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://martinakaduc.github.io/publication/a-novel-approach-for-non-query-fake-news-detection-using-k-som-and-graph-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas: Learning to Explore Human Preference via Probabilistic Reward Model</title>
+      <link>https://martinakaduc.github.io/publication/thomas-learning-to-explore-human-preference-via-probabilistic-reward-model/</link>
+      <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://martinakaduc.github.io/publication/thomas-learning-to-explore-human-preference-via-probabilistic-reward-model/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>10X Faster Subgraph Matching: Dual Matching Networks with Interleaved Diffusion Attention</title>

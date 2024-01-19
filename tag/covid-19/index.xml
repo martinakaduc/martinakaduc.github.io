@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Covid-19 | Martin Nguyen</title>
+    <title>COVID-19 | Duc Q. Nguyen</title>
     <link>https://martinakaduc.github.io/tag/covid-19/</link>
       <atom:link href="https://martinakaduc.github.io/tag/covid-19/index.xml" rel="self" type="application/rss+xml" />
-    <description>Covid-19</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 07:12:24 +0000</lastBuildDate>
+    <description>COVID-19</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 31 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martinakaduc.github.io/media/icon_hu263ca39e98b046b5641ca652ce5a1514_340372_512x512_fill_lanczos_center_3.png</url>
-      <title>Covid-19</title>
+      <title>COVID-19</title>
       <link>https://martinakaduc.github.io/tag/covid-19/</link>
     </image>
+    
+    <item>
+      <title>A novel approach for non-query fake news detection using K-SOM and Graph Neural Networks</title>
+      <link>https://martinakaduc.github.io/publication/a-novel-approach-for-non-query-fake-news-detection-using-k-som-and-graph-neural-networks/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://martinakaduc.github.io/publication/a-novel-approach-for-non-query-fake-news-detection-using-k-som-and-graph-neural-networks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Towards de Novo Drug Design for the Coronavirus: A Drug-Target Interaction Prediction Approach Using Atom-Enhanced Graph Neural Network with Multi-Hop Gating Mechanism</title>

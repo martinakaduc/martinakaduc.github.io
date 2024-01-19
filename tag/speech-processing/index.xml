@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Speech Processing | Duc Q. Nguyen</title>
+    <link>https://martinakaduc.github.io/tag/speech-processing/</link>
+      <atom:link href="https://martinakaduc.github.io/tag/speech-processing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Speech Processing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://martinakaduc.github.io/media/icon_hu263ca39e98b046b5641ca652ce5a1514_340372_512x512_fill_lanczos_center_3.png</url>
+      <title>Speech Processing</title>
+      <link>https://martinakaduc.github.io/tag/speech-processing/</link>
+    </image>
+    
+    <item>
+      <title>Unlocking the Potential: an evaluation of Text-to-Speech Models for the Bahnar Language</title>
+      <link>https://martinakaduc.github.io/publication/unlocking-the-potential-an-evaluation-of-text-to-speech-models-for-the-bahnar-language/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://martinakaduc.github.io/publication/unlocking-the-potential-an-evaluation-of-text-to-speech-models-for-the-bahnar-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voice Conversion for Natural-Sounding Speech Generation on Low-Resource Languages: A Case Study of Bahnaric</title>
+      <link>https://martinakaduc.github.io/publication/voice-conversion-for-natural-sounding-speech-generation-on-low-resource-languages-a-case-study-of-bahnaric/</link>
+      <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://martinakaduc.github.io/publication/voice-conversion-for-natural-sounding-speech-generation-on-low-resource-languages-a-case-study-of-bahnaric/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

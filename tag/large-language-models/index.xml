@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Large Language Models | Duc Q. Nguyen</title>
+    <link>https://martinakaduc.github.io/tag/large-language-models/</link>
+      <atom:link href="https://martinakaduc.github.io/tag/large-language-models/index.xml" rel="self" type="application/rss+xml" />
+    <description>Large Language Models</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Oct 2023 10:10:10 +0000</lastBuildDate>
+    <image>
+      <url>https://martinakaduc.github.io/media/icon_hu263ca39e98b046b5641ca652ce5a1514_340372_512x512_fill_lanczos_center_3.png</url>
+      <title>Large Language Models</title>
+      <link>https://martinakaduc.github.io/tag/large-language-models/</link>
+    </image>
+    
+    <item>
+      <title>URA-LLaMa</title>
+      <link>https://martinakaduc.github.io/post/ura-llama-announcement/</link>
+      <pubDate>Tue, 10 Oct 2023 10:10:10 +0000</pubDate>
+      <guid>https://martinakaduc.github.io/post/ura-llama-announcement/</guid>
+      <description>&lt;p&gt;Hello everyone,&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;As a research team formed from members in Ho Chi Minh City University of Technology (HCMUT) - VNU-HCM and Stanford University, we are pleased to introduce our large language models to the community. We affectionately refer to those language models as URA-LLaMa. They are fine-tuned on Vietnamese datasets from Meta&amp;rsquo;s original LLaMa-2 model, including all three versions of 7B, 13B, and 70B.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;We provide these models free of charge for research purposes. Our models come with evaluation results on 10 different tasks, covering various aspects and real-world usage scenarios. You can find information about our models at the following links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;URA-LLaMa 7B: &lt;a href=&#34;https://huggingface.co/ura-hcmut/ura-llama-7b&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://huggingface.co/ura-hcmut/ura-llama-7b&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;URA-LLaMa 13B: &lt;a href=&#34;https://huggingface.co/ura-hcmut/ura-llama-13b&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://huggingface.co/ura-hcmut/ura-llama-13b&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;URA-LLaMa 70B: &lt;a href=&#34;https://huggingface.co/ura-hcmut/ura-llama-70b&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://huggingface.co/ura-hcmut/ura-llama-70b&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;License and User Agreement: &lt;a href=&#34;https://github.com/martinakaduc/ura-llama-public/blob/main/URA-LLaMa%20Model%20User%20Agreement.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/martinakaduc/ura-llama-public/blob/main/URA-LLaMa%20Model%20User%20Agreement.pdf&lt;/a&gt;
+Playground for URA-LLaMa 7B: &lt;a href=&#34;https://huggingface.co/spaces/ura-hcmut/ura-llama-playground&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://huggingface.co/spaces/ura-hcmut/ura-llama-playground&lt;/a&gt;
+URA-LLaMa Evaluation Results (Actively updating): &lt;a href=&#34;https://huggingface.co/spaces/ura-hcmut/ura-llama-evaluation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://huggingface.co/spaces/ura-hcmut/ura-llama-evaluation&lt;/a&gt;\&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;If you want to contribute to the development of large language models for Vietnamese, please do not hesitate to contact us using the information below.&lt;/p&gt;
+&lt;p&gt;About the research group:&lt;br&gt;
+Website: &lt;a href=&#34;https://www.ura.hcmut.edu.vn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ura.hcmut.edu.vn&lt;/a&gt;&lt;br&gt;
+Email: qttho dot hcmut dot edu dot vn&lt;/p&gt;
+&lt;p&gt;About the model licenses: nqduc at hcmut dot edu dot vn (CC sttruong at cs dot stanford dot edu; qttho at hcmut dot edu dot vn)&lt;br&gt;
+Thank you all.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

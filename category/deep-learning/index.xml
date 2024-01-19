@@ -1,16 +1,97 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deep Learning | Martin Nguyen</title>
+    <title>Deep Learning | Duc Q. Nguyen</title>
     <link>https://martinakaduc.github.io/category/deep-learning/</link>
       <atom:link href="https://martinakaduc.github.io/category/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 18 Jun 2023 09:41:34 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martinakaduc.github.io/media/icon_hu263ca39e98b046b5641ca652ce5a1514_340372_512x512_fill_lanczos_center_3.png</url>
       <title>Deep Learning</title>
       <link>https://martinakaduc.github.io/category/deep-learning/</link>
     </image>
+    
+    <item>
+      <title>BaNaVA: A cross-platform AI mobile application for preserving the Bahnaric languages</title>
+      <link>https://martinakaduc.github.io/publication/banava-a-cross-platform-ai-mobile-application-for-preserving-the-bahnaric-languages/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://martinakaduc.github.io/publication/banava-a-cross-platform-ai-mobile-application-for-preserving-the-bahnaric-languages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unlocking the Potential: an evaluation of Text-to-Speech Models for the Bahnar Language</title>
+      <link>https://martinakaduc.github.io/publication/unlocking-the-potential-an-evaluation-of-text-to-speech-models-for-the-bahnar-language/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://martinakaduc.github.io/publication/unlocking-the-potential-an-evaluation-of-text-to-speech-models-for-the-bahnar-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel approach for non-query fake news detection using K-SOM and Graph Neural Networks</title>
+      <link>https://martinakaduc.github.io/publication/a-novel-approach-for-non-query-fake-news-detection-using-k-som-and-graph-neural-networks/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://martinakaduc.github.io/publication/a-novel-approach-for-non-query-fake-news-detection-using-k-som-and-graph-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supervised Learning Models for Social Bot Detection: Literature review and benchmark</title>
+      <link>https://martinakaduc.github.io/publication/supervised-learning-models-for-social-bot-detection-literature-review-and-benchmark/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://martinakaduc.github.io/publication/supervised-learning-models-for-social-bot-detection-literature-review-and-benchmark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>URA-LLaMa</title>
+      <link>https://martinakaduc.github.io/post/ura-llama-announcement/</link>
+      <pubDate>Tue, 10 Oct 2023 10:10:10 +0000</pubDate>
+      <guid>https://martinakaduc.github.io/post/ura-llama-announcement/</guid>
+      <description>&lt;p&gt;Hello everyone,&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;As a research team formed from members in Ho Chi Minh City University of Technology (HCMUT) - VNU-HCM and Stanford University, we are pleased to introduce our large language models to the community. We affectionately refer to those language models as URA-LLaMa. They are fine-tuned on Vietnamese datasets from Meta&amp;rsquo;s original LLaMa-2 model, including all three versions of 7B, 13B, and 70B.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;We provide these models free of charge for research purposes. Our models come with evaluation results on 10 different tasks, covering various aspects and real-world usage scenarios. You can find information about our models at the following links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;URA-LLaMa 7B: &lt;a href=&#34;https://huggingface.co/ura-hcmut/ura-llama-7b&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://huggingface.co/ura-hcmut/ura-llama-7b&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;URA-LLaMa 13B: &lt;a href=&#34;https://huggingface.co/ura-hcmut/ura-llama-13b&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://huggingface.co/ura-hcmut/ura-llama-13b&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;URA-LLaMa 70B: &lt;a href=&#34;https://huggingface.co/ura-hcmut/ura-llama-70b&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://huggingface.co/ura-hcmut/ura-llama-70b&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;License and User Agreement: &lt;a href=&#34;https://github.com/martinakaduc/ura-llama-public/blob/main/URA-LLaMa%20Model%20User%20Agreement.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/martinakaduc/ura-llama-public/blob/main/URA-LLaMa%20Model%20User%20Agreement.pdf&lt;/a&gt;
+Playground for URA-LLaMa 7B: &lt;a href=&#34;https://huggingface.co/spaces/ura-hcmut/ura-llama-playground&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://huggingface.co/spaces/ura-hcmut/ura-llama-playground&lt;/a&gt;
+URA-LLaMa Evaluation Results (Actively updating): &lt;a href=&#34;https://huggingface.co/spaces/ura-hcmut/ura-llama-evaluation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://huggingface.co/spaces/ura-hcmut/ura-llama-evaluation&lt;/a&gt;\&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;If you want to contribute to the development of large language models for Vietnamese, please do not hesitate to contact us using the information below.&lt;/p&gt;
+&lt;p&gt;About the research group:&lt;br&gt;
+Website: &lt;a href=&#34;https://www.ura.hcmut.edu.vn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ura.hcmut.edu.vn&lt;/a&gt;&lt;br&gt;
+Email: qttho dot hcmut dot edu dot vn&lt;/p&gt;
+&lt;p&gt;About the model licenses: nqduc at hcmut dot edu dot vn (CC sttruong at cs dot stanford dot edu; qttho at hcmut dot edu dot vn)&lt;br&gt;
+Thank you all.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Low-Rank Adaptation Approach for Vietnamese-Bahnaric Lexical Mapping from Non-Parallel Corpora</title>
+      <link>https://martinakaduc.github.io/publication/low-rank-adaptation-approach-for-vietnamese-bahnaric-lexical-mapping-from-non-parallel-corpora/</link>
+      <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://martinakaduc.github.io/publication/low-rank-adaptation-approach-for-vietnamese-bahnaric-lexical-mapping-from-non-parallel-corpora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voice Conversion for Natural-Sounding Speech Generation on Low-Resource Languages: A Case Study of Bahnaric</title>
+      <link>https://martinakaduc.github.io/publication/voice-conversion-for-natural-sounding-speech-generation-on-low-resource-languages-a-case-study-of-bahnaric/</link>
+      <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://martinakaduc.github.io/publication/voice-conversion-for-natural-sounding-speech-generation-on-low-resource-languages-a-case-study-of-bahnaric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas: Learning to Explore Human Preference via Probabilistic Reward Model</title>
+      <link>https://martinakaduc.github.io/publication/thomas-learning-to-explore-human-preference-via-probabilistic-reward-model/</link>
+      <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://martinakaduc.github.io/publication/thomas-learning-to-explore-human-preference-via-probabilistic-reward-model/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>10X Faster Subgraph Matching: Dual Matching Networks with Interleaved Diffusion Attention</title>

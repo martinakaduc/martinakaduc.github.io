@@ -1,16 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Drug Discovery | Martin Nguyen</title>
+    <title>Drug Discovery | Duc Q. Nguyen</title>
     <link>https://martinakaduc.github.io/tag/drug-discovery/</link>
       <atom:link href="https://martinakaduc.github.io/tag/drug-discovery/index.xml" rel="self" type="application/rss+xml" />
     <description>Drug Discovery</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 07:12:24 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martinakaduc.github.io/media/icon_hu263ca39e98b046b5641ca652ce5a1514_340372_512x512_fill_lanczos_center_3.png</url>
       <title>Drug Discovery</title>
       <link>https://martinakaduc.github.io/tag/drug-discovery/</link>
     </image>
+    
+    <item>
+      <title>Drug Discovery</title>
+      <link>https://martinakaduc.github.io/project/drug_discovery/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://martinakaduc.github.io/project/drug_discovery/</guid>
+      <description>&lt;p&gt;Drug discovery is a complex, expensive, and time-consuming process. It involves the identification of a target, screening of a large number of molecules, and optimization of the selected molecules. The process of drug discovery can be accelerated by using machine learning and deep learning. I am interested in solving problems in drug discovery using deep learning. I am also interested in developing new deep learning models for drug discovery.&lt;/p&gt;
+&lt;h2 id=&#34;graduate-thesis&#34;&gt;Graduate Thesis&lt;/h2&gt;
+&lt;p&gt;My graduate thesis was on the application of deep learning to drug discovery. I worked on the the problem of building pharmacophore model for a given molecule (COVID-19 Mpro). The pharmacophore model of a molecule is a set of points in 3D space that represent the important features of the molecule. The pharmacophore model is used to screen a large number of molecules to find the molecules that are promising candidates for drug discovery. I used a deep learning model to build the pharmacophore model of a molecule. My approach contains following steps:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Using a deep learning model to predict the binding affinity of a molecule to a target protein (Mpro).&lt;/li&gt;
+&lt;li&gt;Using the predicted binding affinity to find the binding site of the molecule on the target protein.&lt;/li&gt;
+&lt;li&gt;Using the binding site to build the pharmacophore model of the molecule.&lt;/li&gt;
+&lt;li&gt;Using the pharmacophore model to screen a large number of molecules to find the molecules that are promising candidates for drug discovery and build a recommender system for drug discovery.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;My built system is available at &lt;a href=&#34;http://ura.hcmut.edu.vn/vidok/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;.&lt;br&gt;
+Account: Test&lt;br&gt;
+Password: test&lt;br&gt;
+Or you can register a new account.&lt;/p&gt;
+&lt;p&gt;Thesis PDF: &lt;a href=&#34;uploads/HK212_6_LVTN_Finish_NguyenQuangDuc_1810118_Nop.pdf&#34;&gt;Link&lt;/a&gt;&lt;br&gt;
+Thesis Presentation: &lt;a href=&#34;slides/Thesis_Presentation.pdf&#34;&gt;Link&lt;/a&gt;&lt;br&gt;
+Thesis Code: &lt;a href=&#34;https://github.com/ViDok-BK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Duc Q. Nguyen, et al. &amp;ldquo;Towards de Novo Drug Design for the Coronavirus: A Drug-Target Interaction Prediction Approach Using Atom-Enhanced Graph Neural Network with Multi-Hop Gating Mechanism&amp;rdquo;  In &lt;em&gt;Proceedings of 2022 9th Nafosted Conference on Information and Computer Science&lt;/em&gt; (2022). &lt;strong&gt;Best Paper Award&lt;/strong&gt; &lt;a href=&#34;https://ieeexplore.ieee.org/document/10013437&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Towards de Novo Drug Design for the Coronavirus: A Drug-Target Interaction Prediction Approach Using Atom-Enhanced Graph Neural Network with Multi-Hop Gating Mechanism</title>

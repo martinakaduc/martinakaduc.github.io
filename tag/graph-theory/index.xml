@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graph Theory | Duc Q. Nguyen</title>
+    <link>https://martinakaduc.github.io/tag/graph-theory/</link>
+      <atom:link href="https://martinakaduc.github.io/tag/graph-theory/index.xml" rel="self" type="application/rss+xml" />
+    <description>Graph Theory</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://martinakaduc.github.io/media/icon_hu263ca39e98b046b5641ca652ce5a1514_340372_512x512_fill_lanczos_center_3.png</url>
+      <title>Graph Theory</title>
+      <link>https://martinakaduc.github.io/tag/graph-theory/</link>
+    </image>
+    
+    <item>
+      <title>Solving Graph Theory Problems</title>
+      <link>https://martinakaduc.github.io/project/graph_theory/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://martinakaduc.github.io/project/graph_theory/</guid>
+      <description>&lt;p&gt;Graph theory is a branch of mathematics that studies graphs, which are mathematical structures used to model pairwise relations between objects. A graph in this context is made up of vertices (also called nodes or points) which are connected by edges (also called links or lines). A graph can be directed or undirected, weighted or unweighted. Graphs are one of the prime objects of study in discrete mathematics.&lt;/p&gt;
+&lt;p&gt;Problems in graph theory include graph or subgraph isomorphism, finding the largest clique in a graph, finding the chromatic number of a graph, finding the shortest path between two vertices, finding the minimum spanning tree of a graph, finding the maximum flow in a graph, etc. Currently, existing classical algorithms can solve these problems effectively. However, these algorithms are not scalable and cannot be applied to large-scaled graphs. In this project, I will explore how to use Deep Learning to solve graph theory problems with targeted large-scaled graphs and applications in drug discovery, social network analysis, etc.&lt;/p&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Duc Q. Nguyen, et al. &amp;ldquo;10X Faster Subgraph Matching: Dual Matching Networks with Interleaved Diffusion Attention&amp;rdquo;, In &lt;em&gt;Proceedings of 2023 International Joint Conference on Neural Networks&lt;/em&gt; (IJCNN), 2023. &lt;a href=&#34;https://ieeexplore.ieee.org/document/10191159&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[PDF]&lt;/a&gt; &lt;a href=&#34;https://github.com/martinakaduc/xDualSM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Code]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

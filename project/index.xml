@@ -1,27 +1,65 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Martin Nguyen</title>
+    <title>Projects | Duc Q. Nguyen</title>
     <link>https://martinakaduc.github.io/project/</link>
       <atom:link href="https://martinakaduc.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://martinakaduc.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://martinakaduc.github.io/media/icon_hu263ca39e98b046b5641ca652ce5a1514_340372_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://martinakaduc.github.io/project/</link>
     </image>
     
     <item>
-      <title>Example Project</title>
-      <link>https://martinakaduc.github.io/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://martinakaduc.github.io/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <title>Large Language Models and Applications</title>
+      <link>https://martinakaduc.github.io/project/large_language_models/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://martinakaduc.github.io/project/large_language_models/</guid>
+      <description>&lt;p&gt;Recently, large language models have achieved state-of-the-art results on many natural language processing tasks. It is believed that large language models can learn the knowledge of the world from the text data. As the era of AGI (Artificial General Intelligence) is coming, large language models are considered as one of the key technologies to achieve AGI. In this project, I am interested in developing new large language models and applying them to solve real-world problems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Solving Graph Theory Problems</title>
+      <link>https://martinakaduc.github.io/project/graph_theory/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://martinakaduc.github.io/project/graph_theory/</guid>
+      <description>&lt;p&gt;Graph theory is a branch of mathematics that studies graphs, which are mathematical structures used to model pairwise relations between objects. A graph in this context is made up of vertices (also called nodes or points) which are connected by edges (also called links or lines). A graph can be directed or undirected, weighted or unweighted. Graphs are one of the prime objects of study in discrete mathematics.&lt;/p&gt;
+&lt;p&gt;Problems in graph theory include graph or subgraph isomorphism, finding the largest clique in a graph, finding the chromatic number of a graph, finding the shortest path between two vertices, finding the minimum spanning tree of a graph, finding the maximum flow in a graph, etc. Currently, existing classical algorithms can solve these problems effectively. However, these algorithms are not scalable and cannot be applied to large-scaled graphs. In this project, I will explore how to use Deep Learning to solve graph theory problems with targeted large-scaled graphs and applications in drug discovery, social network analysis, etc.&lt;/p&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Duc Q. Nguyen, et al. &amp;ldquo;10X Faster Subgraph Matching: Dual Matching Networks with Interleaved Diffusion Attention&amp;rdquo;, In &lt;em&gt;Proceedings of 2023 International Joint Conference on Neural Networks&lt;/em&gt; (IJCNN), 2023. &lt;a href=&#34;https://ieeexplore.ieee.org/document/10191159&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[PDF]&lt;/a&gt; &lt;a href=&#34;https://github.com/martinakaduc/xDualSM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Code]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Drug Discovery</title>
+      <link>https://martinakaduc.github.io/project/drug_discovery/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://martinakaduc.github.io/project/drug_discovery/</guid>
+      <description>&lt;p&gt;Drug discovery is a complex, expensive, and time-consuming process. It involves the identification of a target, screening of a large number of molecules, and optimization of the selected molecules. The process of drug discovery can be accelerated by using machine learning and deep learning. I am interested in solving problems in drug discovery using deep learning. I am also interested in developing new deep learning models for drug discovery.&lt;/p&gt;
+&lt;h2 id=&#34;graduate-thesis&#34;&gt;Graduate Thesis&lt;/h2&gt;
+&lt;p&gt;My graduate thesis was on the application of deep learning to drug discovery. I worked on the the problem of building pharmacophore model for a given molecule (COVID-19 Mpro). The pharmacophore model of a molecule is a set of points in 3D space that represent the important features of the molecule. The pharmacophore model is used to screen a large number of molecules to find the molecules that are promising candidates for drug discovery. I used a deep learning model to build the pharmacophore model of a molecule. My approach contains following steps:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Using a deep learning model to predict the binding affinity of a molecule to a target protein (Mpro).&lt;/li&gt;
+&lt;li&gt;Using the predicted binding affinity to find the binding site of the molecule on the target protein.&lt;/li&gt;
+&lt;li&gt;Using the binding site to build the pharmacophore model of the molecule.&lt;/li&gt;
+&lt;li&gt;Using the pharmacophore model to screen a large number of molecules to find the molecules that are promising candidates for drug discovery and build a recommender system for drug discovery.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;My built system is available at &lt;a href=&#34;http://ura.hcmut.edu.vn/vidok/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;.&lt;br&gt;
+Account: Test&lt;br&gt;
+Password: test&lt;br&gt;
+Or you can register a new account.&lt;/p&gt;
+&lt;p&gt;Thesis PDF: &lt;a href=&#34;uploads/HK212_6_LVTN_Finish_NguyenQuangDuc_1810118_Nop.pdf&#34;&gt;Link&lt;/a&gt;&lt;br&gt;
+Thesis Presentation: &lt;a href=&#34;slides/Thesis_Presentation.pdf&#34;&gt;Link&lt;/a&gt;&lt;br&gt;
+Thesis Code: &lt;a href=&#34;https://github.com/ViDok-BK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Duc Q. Nguyen, et al. &amp;ldquo;Towards de Novo Drug Design for the Coronavirus: A Drug-Target Interaction Prediction Approach Using Atom-Enhanced Graph Neural Network with Multi-Hop Gating Mechanism&amp;rdquo;  In &lt;em&gt;Proceedings of 2022 9th Nafosted Conference on Information and Computer Science&lt;/em&gt; (2022). &lt;strong&gt;Best Paper Award&lt;/strong&gt; &lt;a href=&#34;https://ieeexplore.ieee.org/document/10013437&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
