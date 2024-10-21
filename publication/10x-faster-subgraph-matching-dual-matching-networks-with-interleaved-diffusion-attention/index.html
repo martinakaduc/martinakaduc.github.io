@@ -1,4 +1,6 @@
-<!DOCTYPE html><html lang="en-us" >
+<!DOCTYPE html>
+<!-- This site was created with Hugo Blox. https://hugoblox.com -->
+<!-- Last Published: October 21, 2024 --><html lang="en-us" >
 
 
 <head>
@@ -8,8 +10,22 @@
   
   
   
-    <meta name="generator" content="Wowchemy 5.5.0 for Hugo" />
+    <meta name="generator" content="Hugo Blox Builder 5.9.7" />
   
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
 
   
   
@@ -48,32 +64,6 @@
 
   
   
-  
-  
-  
-    
-    
-    
-  
-  
-
-  <meta name="author" content="Duc Q. Nguyen" />
-
-  
-  
-  
-    
-  
-  <meta name="description" content="The goal of subgraph matching is to determine the presence of a particular query pattern within a large collection of data graphs. Despite being a hard problem, subgraph matching is essential in various disciplines, including bioinformatics, text matching, and graph retrieval. Although traditional approaches could provide exact solutions, their computations are known to be NP-complete, leading to an overwhelmingly querying latency. While recent neural-based approaches have been shown to improve the response time, the oversimplified assumption of the first-order network may neglect the generalisability of fully capturing patterns in varying sizes, causing the performance to drop significantly in datasets in various domains. To overcome these limitations, this paper proposes xDualSM, a dual matching neural network model with interleaved diffusion attention. Specifically, we first embed the structural information of graphs into different adjacency matrices, which explicitly capture the intra-graph and cross-graph structures between the query pattern and the target graph. Then, we introduce a dual matching network with interleaved diffusion attention to carefully capture intra-graph and cross-graph information while reducing computational complexity. Empirically, our proposed framework not only boosted the speed of subgraph matching more than 10× compared to the fastest baseline but also achieved significant improvements of 47.64% in Recall and 34.39% in F1-score compared to the state-of-the-art approximation approach on COX2 dataset. In addition, our results are comparable with exact methods." />
-
-  
-  <link rel="alternate" hreflang="en-us" href="https://martinakaduc.github.io/publication/10x-faster-subgraph-matching-dual-matching-networks-with-interleaved-diffusion-attention/" />
-
-  
-  
-  
-    <meta name="theme-color" content="#1565c0" />
-  
 
   
   
@@ -83,14 +73,14 @@
 
   
 
-  <link rel="stylesheet" href="/css/vendor-bundle.min.c7b8d9abd591ba2253ea42747e3ac3f5.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
 
   
   
   
     
     
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.4/css/academicons.min.css" integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw==" crossorigin="anonymous" media="print" onload="this.media='all'">
     
 
     
@@ -106,41 +96,10 @@
     
     
     
-      
-    
-    
-      
-      
-        
-          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
-          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
-        
-      
-    
-
-    
-    
-    
 
     
 
     
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
     
       
       
@@ -255,39 +214,13 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.1052fab8b7700a3dc49ee23683097d66.css" />
-
   
-
-
-
-  
-
-
-  
-
-
-  
-
-
-
+  <link rel="stylesheet" href="/css/wowchemy.f6689966c0a10712f95f034011917db0.css" />
 
   
   
   
 
-  
-
-  
-    <link rel="manifest" href="/manifest.webmanifest" />
-  
-
-  <link rel="icon" type="image/png" href="/media/icon_hu263ca39e98b046b5641ca652ce5a1514_340372_32x32_fill_lanczos_center_3.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu263ca39e98b046b5641ca652ce5a1514_340372_180x180_fill_lanczos_center_3.png" />
-
-  <link rel="canonical" href="https://martinakaduc.github.io/publication/10x-faster-subgraph-matching-dual-matching-networks-with-interleaved-diffusion-attention/" />
-
-  
   
   
   
@@ -296,35 +229,120 @@
   
   
     
-  
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
   
 
   
   
-    
-    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
-  <meta property="twitter:card" content="summary_large_image" />
   
-    <meta property="twitter:site" content="@martinakaduc" />
-    <meta property="twitter:creator" content="@martinakaduc" />
   
-  <meta property="og:site_name" content="Duc Q. Nguyen" />
-  <meta property="og:url" content="https://martinakaduc.github.io/publication/10x-faster-subgraph-matching-dual-matching-networks-with-interleaved-diffusion-attention/" />
-  <meta property="og:title" content="10X Faster Subgraph Matching: Dual Matching Networks with Interleaved Diffusion Attention | Duc Q. Nguyen" />
-  <meta property="og:description" content="The goal of subgraph matching is to determine the presence of a particular query pattern within a large collection of data graphs. Despite being a hard problem, subgraph matching is essential in various disciplines, including bioinformatics, text matching, and graph retrieval. Although traditional approaches could provide exact solutions, their computations are known to be NP-complete, leading to an overwhelmingly querying latency. While recent neural-based approaches have been shown to improve the response time, the oversimplified assumption of the first-order network may neglect the generalisability of fully capturing patterns in varying sizes, causing the performance to drop significantly in datasets in various domains. To overcome these limitations, this paper proposes xDualSM, a dual matching neural network model with interleaved diffusion attention. Specifically, we first embed the structural information of graphs into different adjacency matrices, which explicitly capture the intra-graph and cross-graph structures between the query pattern and the target graph. Then, we introduce a dual matching network with interleaved diffusion attention to carefully capture intra-graph and cross-graph information while reducing computational complexity. Empirically, our proposed framework not only boosted the speed of subgraph matching more than 10× compared to the fastest baseline but also achieved significant improvements of 47.64% in Recall and 34.39% in F1-score compared to the state-of-the-art approximation approach on COX2 dataset. In addition, our results are comparable with exact methods." /><meta property="og:image" content="https://martinakaduc.github.io/publication/10x-faster-subgraph-matching-dual-matching-networks-with-interleaved-diffusion-attention/featured.png" />
-    <meta property="twitter:image" content="https://martinakaduc.github.io/publication/10x-faster-subgraph-matching-dual-matching-networks-with-interleaved-diffusion-attention/featured.png" /><meta property="og:locale" content="en-us" />
+
+
+
+
+
+
+  <meta name="author" content="Duc Q. Nguyen" />
+
+
+
+
+
   
-    
-      <meta
-        property="article:published_time"
-        content="2023-06-18T09:41:34&#43;00:00"
-      />
-    
+
+<meta name="description" content="The goal of subgraph matching is to determine the presence of a particular query pattern within a large collection of data graphs. Despite being a hard problem, subgraph matching is essential in various disciplines, including bioinformatics, text matching, and graph retrieval. Although traditional approaches could provide exact solutions, their computations are known to be NP-complete, leading to an overwhelmingly querying latency. While recent neural-based approaches have been shown to improve the response time, the oversimplified assumption of the first-order network may neglect the generalisability of fully capturing patterns in varying sizes, causing the performance to drop significantly in datasets in various domains. To overcome these limitations, this paper proposes xDualSM, a dual matching neural network model with interleaved diffusion attention. Specifically, we first embed the structural information of graphs into different adjacency matrices, which explicitly capture the intra-graph and cross-graph structures between the query pattern and the target graph. Then, we introduce a dual matching network with interleaved diffusion attention to carefully capture intra-graph and cross-graph information while reducing computational complexity. Empirically, our proposed framework not only boosted the speed of subgraph matching more than 10× compared to the fastest baseline but also achieved significant improvements of 47.64% in Recall and 34.39% in F1-score compared to the state-of-the-art approximation approach on COX2 dataset. In addition, our results are comparable with exact methods." />
+
+
+
+<link rel="alternate" hreflang="en-us" href="https://martinakaduc.github.io/publication/10x-faster-subgraph-matching-dual-matching-networks-with-interleaved-diffusion-attention/" />
+<link rel="canonical" href="https://martinakaduc.github.io/publication/10x-faster-subgraph-matching-dual-matching-networks-with-interleaved-diffusion-attention/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hu263ca39e98b046b5641ca652ce5a1514_340372_32x32_fill_lanczos_center_3.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu263ca39e98b046b5641ca652ce5a1514_340372_180x180_fill_lanczos_center_3.png" />
+
+<meta name="theme-color" content="#1565c0" />
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary_large_image" />
+
+  <meta property="twitter:site" content="@martinakaduc" />
+  <meta property="twitter:creator" content="@martinakaduc" />
+<meta property="twitter:image" content="https://martinakaduc.github.io/publication/10x-faster-subgraph-matching-dual-matching-networks-with-interleaved-diffusion-attention/featured.png" />
+
+
+
+  
+
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Duc Q. Nguyen" />
+<meta property="og:url" content="https://martinakaduc.github.io/publication/10x-faster-subgraph-matching-dual-matching-networks-with-interleaved-diffusion-attention/" />
+<meta property="og:title" content="10X Faster Subgraph Matching: Dual Matching Networks with Interleaved Diffusion Attention | Duc Q. Nguyen" />
+<meta property="og:description" content="The goal of subgraph matching is to determine the presence of a particular query pattern within a large collection of data graphs. Despite being a hard problem, subgraph matching is essential in various disciplines, including bioinformatics, text matching, and graph retrieval. Although traditional approaches could provide exact solutions, their computations are known to be NP-complete, leading to an overwhelmingly querying latency. While recent neural-based approaches have been shown to improve the response time, the oversimplified assumption of the first-order network may neglect the generalisability of fully capturing patterns in varying sizes, causing the performance to drop significantly in datasets in various domains. To overcome these limitations, this paper proposes xDualSM, a dual matching neural network model with interleaved diffusion attention. Specifically, we first embed the structural information of graphs into different adjacency matrices, which explicitly capture the intra-graph and cross-graph structures between the query pattern and the target graph. Then, we introduce a dual matching network with interleaved diffusion attention to carefully capture intra-graph and cross-graph information while reducing computational complexity. Empirically, our proposed framework not only boosted the speed of subgraph matching more than 10× compared to the fastest baseline but also achieved significant improvements of 47.64% in Recall and 34.39% in F1-score compared to the state-of-the-art approximation approach on COX2 dataset. In addition, our results are comparable with exact methods." /><meta property="og:image" content="https://martinakaduc.github.io/publication/10x-faster-subgraph-matching-dual-matching-networks-with-interleaved-diffusion-attention/featured.png" /><meta property="og:locale" content="en-us" />
+
+  
+    <meta
+      property="article:published_time"
+      content="2023-06-18T09:41:34&#43;00:00"
+    />
+  
+  
     <meta property="article:modified_time" content="2023-06-18T09:41:34&#43;00:00">
   
 
-  
+
+
+
 
 
     
@@ -375,15 +393,37 @@
 
   
 
+
+
+
+  
+  
+  
+
+  
   
 
   
 
 
-
-
-
+  
   <title>10X Faster Subgraph Matching: Dual Matching Networks with Interleaved Diffusion Attention | Duc Q. Nguyen</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
 </head>
 
 
@@ -398,7 +438,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.2ed908358299dd7ab553faae685c746c.js"></script>
+  <script src="/js/wowchemy-init.min.9e4214442a7711d35691acd58f6f6361.js"></script>
 
   
 
@@ -442,8 +482,12 @@
 
 
 
-  <div class="page-header">
-    
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
 
 
 
@@ -456,7 +500,7 @@
 
 
 
-<header class="header--fixed">
+<header>
   <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
     <div class="container-xl">
 
@@ -726,6 +770,7 @@
 
         
         
+        
         <li class="nav-item">
           <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
         </li>
@@ -772,10 +817,10 @@
     
 
 
-
-
-
-
+  
+    
+    
+  
 
 
 <div class="pub">
@@ -802,8 +847,10 @@
 
 
 
+
   
   
+
 
 
 <div class="article-container pt-3">
@@ -915,7 +962,7 @@
 
 <div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 275px;">
   <div style="position: relative">
-    <img src="/publication/10x-faster-subgraph-matching-dual-matching-networks-with-interleaved-diffusion-attention/featured_hu290023975ec39628e6c918ba7792b1f8_754108_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="275" alt="" class="featured-image">
+    <img src="/publication/10x-faster-subgraph-matching-dual-matching-networks-with-interleaved-diffusion-attention/featured_hu290023975ec39628e6c918ba7792b1f8_754108_acfba8cb15cfd68d27c606ec2e29f480.webp" width="720" height="275" alt="" class="featured-image">
     
   </div>
 </div>
@@ -938,7 +985,7 @@
           <div class="col-12 col-md-3 pub-row-heading">Type</div>
           <div class="col-12 col-md-9">
             <a href="/publication/#1">
-              Conference paper
+              1
             </a>
           </div>
         </div>
@@ -971,6 +1018,7 @@
 
 
 
+
 <div class="article-tags">
   
   <a class="badge badge-light" href="/tag/graph-neural-network/">Graph Neural Network</a>
@@ -993,8 +1041,12 @@
       
       
       
+      
+      
+      
+      
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://martinakaduc.github.io/publication/10x-faster-subgraph-matching-dual-matching-networks-with-interleaved-diffusion-attention/&amp;text=10X%20Faster%20Subgraph%20Matching:%20Dual%20Matching%20Networks%20with%20Interleaved%20Diffusion%20Attention" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fmartinakaduc.github.io%2Fpublication%2F10x-faster-subgraph-matching-dual-matching-networks-with-interleaved-diffusion-attention%2F&amp;text=10X&#43;Faster&#43;Subgraph&#43;Matching%3A&#43;Dual&#43;Matching&#43;Networks&#43;with&#43;Interleaved&#43;Diffusion&#43;Attention" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -1006,8 +1058,12 @@
       
       
       
+      
+      
+      
+      
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://martinakaduc.github.io/publication/10x-faster-subgraph-matching-dual-matching-networks-with-interleaved-diffusion-attention/&amp;t=10X%20Faster%20Subgraph%20Matching:%20Dual%20Matching%20Networks%20with%20Interleaved%20Diffusion%20Attention" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fmartinakaduc.github.io%2Fpublication%2F10x-faster-subgraph-matching-dual-matching-networks-with-interleaved-diffusion-attention%2F&amp;t=10X&#43;Faster&#43;Subgraph&#43;Matching%3A&#43;Dual&#43;Matching&#43;Networks&#43;with&#43;Interleaved&#43;Diffusion&#43;Attention" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1019,8 +1075,14 @@
       
       
       
+      
+      
+      
+      
+        
+      
       <li>
-        <a href="mailto:?subject=10X%20Faster%20Subgraph%20Matching:%20Dual%20Matching%20Networks%20with%20Interleaved%20Diffusion%20Attention&amp;body=https://martinakaduc.github.io/publication/10x-faster-subgraph-matching-dual-matching-networks-with-interleaved-diffusion-attention/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=10X%20Faster%20Subgraph%20Matching%3A%20Dual%20Matching%20Networks%20with%20Interleaved%20Diffusion%20Attention&amp;body=https%3A%2F%2Fmartinakaduc.github.io%2Fpublication%2F10x-faster-subgraph-matching-dual-matching-networks-with-interleaved-diffusion-attention%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1032,8 +1094,12 @@
       
       
       
+      
+      
+      
+      
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://martinakaduc.github.io/publication/10x-faster-subgraph-matching-dual-matching-networks-with-interleaved-diffusion-attention/&amp;title=10X%20Faster%20Subgraph%20Matching:%20Dual%20Matching%20Networks%20with%20Interleaved%20Diffusion%20Attention" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fmartinakaduc.github.io%2Fpublication%2F10x-faster-subgraph-matching-dual-matching-networks-with-interleaved-diffusion-attention%2F&amp;title=10X&#43;Faster&#43;Subgraph&#43;Matching%3A&#43;Dual&#43;Matching&#43;Networks&#43;with&#43;Interleaved&#43;Diffusion&#43;Attention" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1045,8 +1111,12 @@
       
       
       
+      
+      
+      
+      
       <li>
-        <a href="whatsapp://send?text=10X%20Faster%20Subgraph%20Matching:%20Dual%20Matching%20Networks%20with%20Interleaved%20Diffusion%20Attention%20https://martinakaduc.github.io/publication/10x-faster-subgraph-matching-dual-matching-networks-with-interleaved-diffusion-attention/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=10X&#43;Faster&#43;Subgraph&#43;Matching%3A&#43;Dual&#43;Matching&#43;Networks&#43;with&#43;Interleaved&#43;Diffusion&#43;Attention%20https%3A%2F%2Fmartinakaduc.github.io%2Fpublication%2F10x-faster-subgraph-matching-dual-matching-networks-with-interleaved-diffusion-attention%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1058,8 +1128,12 @@
       
       
       
+      
+      
+      
+      
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://martinakaduc.github.io/publication/10x-faster-subgraph-matching-dual-matching-networks-with-interleaved-diffusion-attention/&amp;title=10X%20Faster%20Subgraph%20Matching:%20Dual%20Matching%20Networks%20with%20Interleaved%20Diffusion%20Attention" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fmartinakaduc.github.io%2Fpublication%2F10x-faster-subgraph-matching-dual-matching-networks-with-interleaved-diffusion-attention%2F&amp;title=10X&#43;Faster&#43;Subgraph&#43;Matching%3A&#43;Dual&#43;Matching&#43;Networks&#43;with&#43;Interleaved&#43;Diffusion&#43;Attention" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1267,14 +1341,27 @@
 
 
 
-  
+
+
+
+
+
+
+
+
 
   
-
+  
+  
+  
   
 
-  
-  
+
+
+
+
+
+
 
 
 
@@ -1317,6 +1404,7 @@
 
 
 
+
   <p class="powered-by">
     
     
@@ -1327,7 +1415,7 @@
       
       
       
-      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+      Published with <a href="https://hugoblox.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Hugo Blox Builder</a> — the free, <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
     
   </p>
 </footer>
@@ -1336,113 +1424,111 @@
     
   </div>
 
-      
+  
 
-    
-    <script src="/js/vendor-bundle.min.b4708d4364577c16ab7001b265a063a4.js"></script>
 
-    
-    
-    
-      
+<script src="/js/vendor-bundle.min.50933d940896e49f984a778650d5f7f5.js"></script>
 
-      
-      
 
-      
 
-      
-        
-        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js" integrity="sha512-Ypjm0o7jOxAd4hpdoppSEN0TQOC19UtPAqD+4s5AlXmUvbmmS/YMxYqAqarQYyxTnB6/rqip9qcxlNB/3U9Wdg==" crossorigin="anonymous"></script>
-        
-        
-        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/r.min.js" crossorigin="anonymous"></script>
-        
-        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/latex.min.js" crossorigin="anonymous"></script>
-        
-        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/python.min.js" crossorigin="anonymous"></script>
-        
-      
 
-    
+  
 
-    
-    
-    
+  
+  
 
-    
-    
+  
 
-    
-    
-    
-      
-      <script id="search-hit-fuse-template" type="text/x-template">
-        <div class="search-hit" id="summary-{{key}}">
-          <div class="search-hit-content">
-            <div class="search-hit-name">
-              <a href="{{relpermalink}}">{{title}}</a>
-              <div class="article-metadata search-hit-type">{{type}}</div>
-              <p class="search-hit-description">{{snippet}}</p>
-            </div>
-          </div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
         </div>
-      </script>
-      
-        <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
-        <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
-      
-    
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
 
-    
-    
 
-    
-    
-    
-    
 
-    
-    
-      
-      
-      
-      
-      
-      
-      
-    
 
-    
 
-    
-    
-    
-    <script id="page-data" type="application/json">{"use_headroom":true}</script>
 
-    
-    
-      <script src="/js/wowchemy-headroom.c251366b4128fd5e6b046d4c97a62a51.js" type="module"></script>
-    
-    
-    
-    
-    
-    
-    
-      
-      
-    
-    
-    <script src="/en/js/wowchemy.min.e621ca22b71fe422a443af00168d758e.js"></script>
 
-    
-    
-    
-    
-    
-    
-      
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.7f5ebaff62ae468cff8bb3dd1337bb9b.js"></script>
+
+
+
+
+
+
+
+  
 <div id="modal" class="modal fade" role="dialog">
   <div class="modal-dialog">
     <div class="modal-content">
@@ -1453,7 +1539,8 @@
         </button>
       </div>
       <div class="modal-body">
-        <pre><code class="tex hljs"></code></pre>
+        
+        <pre><code></code></pre>
       </div>
       <div class="modal-footer">
         <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
@@ -1468,7 +1555,20 @@
   </div>
 </div>
 
-      <script src="/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
+
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

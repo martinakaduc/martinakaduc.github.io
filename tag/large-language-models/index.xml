@@ -5,12 +5,20 @@
     <link>https://martinakaduc.github.io/tag/large-language-models/</link>
       <atom:link href="https://martinakaduc.github.io/tag/large-language-models/index.xml" rel="self" type="application/rss+xml" />
     <description>Large Language Models</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Oct 2023 10:10:10 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martinakaduc.github.io/media/icon_hu263ca39e98b046b5641ca652ce5a1514_340372_512x512_fill_lanczos_center_3.png</url>
       <title>Large Language Models</title>
       <link>https://martinakaduc.github.io/tag/large-language-models/</link>
     </image>
+    
+    <item>
+      <title>Crossing Linguistic Horizons: Finetuning and Comprehensive Evaluationof Vietnamese Large Language Models</title>
+      <link>https://martinakaduc.github.io/publication/crossing-linguistic-horizon-finetuning-and-evaluation-vietnamese-llms/</link>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://martinakaduc.github.io/publication/crossing-linguistic-horizon-finetuning-and-evaluation-vietnamese-llms/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>URA-LLaMa</title>

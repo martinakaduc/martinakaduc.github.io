@@ -5,12 +5,20 @@
     <link>https://martinakaduc.github.io/tag/subgraph-isomorphism/</link>
       <atom:link href="https://martinakaduc.github.io/tag/subgraph-isomorphism/index.xml" rel="self" type="application/rss+xml" />
     <description>Subgraph Isomorphism</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 18 Jun 2023 09:41:34 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martinakaduc.github.io/media/icon_hu263ca39e98b046b5641ca652ce5a1514_340372_512x512_fill_lanczos_center_3.png</url>
       <title>Subgraph Isomorphism</title>
       <link>https://martinakaduc.github.io/tag/subgraph-isomorphism/</link>
     </image>
+    
+    <item>
+      <title>Explainable Neural Subgraph Matching WithLearnable Multi-Hop Attention</title>
+      <link>https://martinakaduc.github.io/publication/explainable-neural-subgraph-matching-with-learnable-multi-hop-attention/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://martinakaduc.github.io/publication/explainable-neural-subgraph-matching-with-learnable-multi-hop-attention/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>10X Faster Subgraph Matching: Dual Matching Networks with Interleaved Diffusion Attention</title>
