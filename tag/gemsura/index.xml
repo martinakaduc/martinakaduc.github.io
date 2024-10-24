@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GemSUra | Duc Q. Nguyen</title>
+    <link>https://martinakaduc.github.io/tag/gemsura/</link>
+      <atom:link href="https://martinakaduc.github.io/tag/gemsura/index.xml" rel="self" type="application/rss+xml" />
+    <description>GemSUra</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Mar 2024 10:10:10 +0000</lastBuildDate>
+    <image>
+      <url>https://martinakaduc.github.io/media/icon_hu263ca39e98b046b5641ca652ce5a1514_340372_512x512_fill_lanczos_center_3.png</url>
+      <title>GemSUra</title>
+      <link>https://martinakaduc.github.io/tag/gemsura/</link>
+    </image>
+    
+    <item>
+      <title>Breaking Ground in Vietnamese Language Models</title>
+      <link>https://martinakaduc.github.io/post/mixsura-gemsura/</link>
+      <pubDate>Tue, 12 Mar 2024 10:10:10 +0000</pubDate>
+      <guid>https://martinakaduc.github.io/post/mixsura-gemsura/</guid>
+      <description>&lt;p&gt;🌟 Breaking Ground in Vietnamese Language Models! 🌟&lt;/p&gt;
+&lt;p&gt;We are thrilled to unveil our latest advancements in language modeling tailored specifically for the Vietnamese community! 🇻🇳 Get ready to meet our newest members:&lt;/p&gt;
+&lt;p&gt;🔹 &lt;strong&gt;MixSUra&lt;/strong&gt;: Harnessing the power of Mixtral, the pioneering MoE (Mixture of Experts) LLM for Vietnamese, MixSUra is set to revolutionize natural language processing with its unparalleled capabilities.&lt;/p&gt;
+&lt;p&gt;🔹 &lt;strong&gt;GemSUra 7B, 2B&lt;/strong&gt;: Developed based on Google&amp;rsquo;s Gemma 7B, 2B models, GemSUra boasts an extensive vocabulary and precision-engineered algorithms, promising an exceptional linguistic experience like never before.&lt;/p&gt;
+&lt;p&gt;But here&amp;rsquo;s where it gets even more exciting! 🚀 We&amp;rsquo;re not just stopping at language. We&amp;rsquo;re integrating cutting-edge vision-enabled capabilities into our models, creating a seamless fusion of language and image understanding. Introducing:&lt;/p&gt;
+&lt;p&gt;🔸 &lt;strong&gt;MixSUraV&lt;/strong&gt;
+🔸 &lt;strong&gt;GemSUraV 7B, 2B&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;By incorporating the innovative LLaVA architecture, these models redefine the boundaries of AI by not only understanding language but also interpreting visual data, opening up endless possibilities for applications across various domains.&lt;/p&gt;
+&lt;p&gt;Get ready to embark on a journey of unparalleled AI excellence! Stay tuned for the official release, and join us as we pave the way for a new era of language modeling.&lt;/p&gt;
+&lt;p&gt;#VietnameseLLM #AIInnovation #LanguageModeling #VietnameseLanguage #MixSUra #GemSUra #LLaVAArchitecture&lt;/p&gt;
+&lt;p&gt;🌐📲✨
+MixSUra family: ​​https://huggingface.co/collections/ura-hcmut/mixsura-65d6fae4fc2da9f5bdf59a79
+GemSUra family: &lt;a href=&#34;https://huggingface.co/collections/ura-hcmut/gemsura-65da96cd27be2e8c65f17131&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://huggingface.co/collections/ura-hcmut/gemsura-65da96cd27be2e8c65f17131&lt;/a&gt;
+GemSUra-7B Chatbot: &lt;a href=&#34;https://www.ura.hcmut.edu.vn/gemsura-chat/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ura.hcmut.edu.vn/gemsura-chat/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
