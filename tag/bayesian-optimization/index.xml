@@ -5,12 +5,20 @@
     <link>https://martinakaduc.github.io/tag/bayesian-optimization/</link>
       <atom:link href="https://martinakaduc.github.io/tag/bayesian-optimization/index.xml" rel="self" type="application/rss+xml" />
     <description>Bayesian Optimization</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Feb 2023 10:10:10 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martinakaduc.github.io/media/icon_hu263ca39e98b046b5641ca652ce5a1514_340372_512x512_fill_lanczos_center_3.png</url>
       <title>Bayesian Optimization</title>
       <link>https://martinakaduc.github.io/tag/bayesian-optimization/</link>
     </image>
+    
+    <item>
+      <title>Neural Nonmyopic Bayesian Optimization in Dynamic Cost Settings</title>
+      <link>https://martinakaduc.github.io/publication/neural-nonmyopic-bayesian-optimization-in-dynamic-cost-settings/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://martinakaduc.github.io/publication/neural-nonmyopic-bayesian-optimization-in-dynamic-cost-settings/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Valentine&#39;s Day Story.</title>

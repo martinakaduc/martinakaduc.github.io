@@ -3,22 +3,74 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://martinakaduc.github.io/publication-type/2/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://martinakaduc.github.io/tag/artificial-intelligence/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+    <loc>https://martinakaduc.github.io/tag/bayesian-optimization/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://martinakaduc.github.io/tag/bioinformatics/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://martinakaduc.github.io/categories/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://martinakaduc.github.io/tag/computer-science/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://martinakaduc.github.io/tag/deep-learning/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://martinakaduc.github.io/category/deep-learning/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://martinakaduc.github.io/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://martinakaduc.github.io/tag/large-language-models/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://martinakaduc.github.io/publication/neural-nonmyopic-bayesian-optimization-in-dynamic-cost-settings/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://martinakaduc.github.io/tag/nonmyopic-optimization/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://martinakaduc.github.io/tag/probabilistic-machine-learning/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://martinakaduc.github.io/category/probabilistic-machine-learning/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://martinakaduc.github.io/tag/protein-sequence-design/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://martinakaduc.github.io/publication_types/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://martinakaduc.github.io/publication/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://martinakaduc.github.io/tags/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://martinakaduc.github.io/tag/artificial-intelligence/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -34,19 +86,7 @@
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://martinakaduc.github.io/publication_types/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://martinakaduc.github.io/publication/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://martinakaduc.github.io/tag/subgraph-isomorphism/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://martinakaduc.github.io/tags/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -54,23 +94,11 @@
     <lastmod>2024-06-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://martinakaduc.github.io/tag/computer-science/</loc>
-    <lastmod>2024-06-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://martinakaduc.github.io/publication/crossing-linguistic-horizon-finetuning-and-evaluation-vietnamese-llms/</loc>
     <lastmod>2024-06-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://martinakaduc.github.io/tag/deep-learning/</loc>
-    <lastmod>2024-06-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://martinakaduc.github.io/tag/evaluation/</loc>
-    <lastmod>2024-06-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://martinakaduc.github.io/tag/large-language-models/</loc>
     <lastmod>2024-06-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -79,10 +107,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://martinakaduc.github.io/tag/applied-mathematics/</loc>
-    <lastmod>2024-05-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://martinakaduc.github.io/tag/bioinformatics/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -275,10 +299,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://martinakaduc.github.io/category/artificial-intelligence/</loc>
-    <lastmod>2023-02-14T10:10:10+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://martinakaduc.github.io/tag/bayesian-optimization/</loc>
     <lastmod>2023-02-14T10:10:10+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
