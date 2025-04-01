@@ -1,36 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Graph Theory | Duc Q. Nguyen</title>
-    <link>https://martinakaduc.github.io/tag/graph-theory/</link>
-      <atom:link href="https://martinakaduc.github.io/tag/graph-theory/index.xml" rel="self" type="application/rss+xml" />
-    <description>Graph Theory</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://martinakaduc.github.io/media/icon_hu263ca39e98b046b5641ca652ce5a1514_340372_512x512_fill_lanczos_center_3.png</url>
-      <title>Graph Theory</title>
-      <link>https://martinakaduc.github.io/tag/graph-theory/</link>
-    </image>
-    
-    <item>
-      <title>Solving Graph Theory Problems</title>
-      <link>https://martinakaduc.github.io/project/graph_theory/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://martinakaduc.github.io/project/graph_theory/</guid>
-      <description>&lt;p&gt;Graph theory is a branch of mathematics that studies graphs, which are mathematical structures used to model pairwise relations between objects. A graph in this context is made up of vertices (also called nodes or points) which are connected by edges (also called links or lines). A graph can be directed or undirected, weighted or unweighted. Graphs are one of the prime objects of study in discrete mathematics.&lt;/p&gt;
-&lt;p&gt;Problems in graph theory include graph or subgraph isomorphism, finding the largest clique in a graph, finding the chromatic number of a graph, finding the shortest path between two vertices, finding the minimum spanning tree of a graph, finding the maximum flow in a graph, etc. Currently, existing classical algorithms can solve these problems effectively. However, these algorithms are not scalable and cannot be applied to large-scaled graphs. In this project, I will explore how to use Deep Learning to solve graph theory problems with targeted large-scaled graphs and applications in drug discovery, social network analysis, etc.&lt;/p&gt;
-&lt;h2 id=&#34;masters-thesis&#34;&gt;Master&amp;rsquo;s Thesis&lt;/h2&gt;
-&lt;p&gt;My Master&amp;rsquo;s thesis focuses on enhancing subgraph isomorphism prediction models to improve scalability and interpretability, particularly for applications in drug design. I introduce xNeuSM, an Explainable Neural Subgraph Matching framework, which leverages Graph Learnable Multi-hop Attention Networks (GLeMA) to dynamically learn attention decay parameters across multiple hops. This approach eliminates reliance on fixed hyperparameters and provides theoretical guarantees on approximation errors. Empirical results on real-world datasets show that xNeuSM has higher accuracy than approximate baselines while achieving query times at least seven times faster than exact algorithms. These advancements make subgraph matching more practical for large-scale molecular analysis in drug discovery.&lt;/p&gt;
-&lt;p&gt;Master&amp;rsquo;s thesis PDF: &lt;a href=&#34;https://martinakaduc.github.io/uploads/LVThS_2270664_NguyenQuangDuc.pdf&#34;&gt;Link&lt;/a&gt;&lt;br&gt;
-Master&amp;rsquo;s thesis presentation: &lt;a href=&#34;https://martinakaduc.github.io/slides/Slide_2270664_NguyenQuangDuc.pdf&#34;&gt;Link&lt;/a&gt;&lt;br&gt;
-Master&amp;rsquo;s thesis code: &lt;a href=&#34;https://github.com/martinakaduc/xNeuSM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Duc Q. Nguyen, &lt;em&gt;et al.&lt;/em&gt; &amp;ldquo;10X Faster Subgraph Matching: Dual Matching Networks with Interleaved Diffusion Attention&amp;rdquo;, In &lt;em&gt;Proceedings of 2023 International Joint Conference on Neural Networks&lt;/em&gt; (IJCNN), 2023. &lt;a href=&#34;https://ieeexplore.ieee.org/document/10191159&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[PDF]&lt;/a&gt; &lt;a href=&#34;https://github.com/martinakaduc/xDualSM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Code]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Duc Q. Nguyen, &lt;em&gt;et al.&lt;/em&gt;, &amp;ldquo;Explainable Neural Subgraph Matching With Learnable Multi-Hop Attention,&amp;rdquo; &lt;em&gt;IEEE Access&lt;/em&gt;, vol. 12, pp. 130474–130492, 2024. &lt;a href=&#34;https://ieeexplore.ieee.org/document/10677500&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[PDF]&lt;/a&gt; &lt;a href=&#34;https://github.com/martinakaduc/xNeuSM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Code]&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Graph Theory | Duc Q. Nguyen</title><link>https://martinakaduc.github.io/tag/graph-theory/</link><atom:link href="https://martinakaduc.github.io/tag/graph-theory/index.xml" rel="self" type="application/rss+xml"/><description>Graph Theory</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><image><url>https://martinakaduc.github.io/media/icon_hu263ca39e98b046b5641ca652ce5a1514_340372_512x512_fill_lanczos_center_3.png</url><title>Graph Theory</title><link>https://martinakaduc.github.io/tag/graph-theory/</link></image><item><title>Solving Graph Theory Problems</title><link>https://martinakaduc.github.io/project/graph_theory/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://martinakaduc.github.io/project/graph_theory/</guid><description>&lt;p>Graph theory is a branch of mathematics that studies graphs, which are mathematical structures used to model pairwise relations between objects. A graph in this context is made up of vertices (also called nodes or points) which are connected by edges (also called links or lines). A graph can be directed or undirected, weighted or unweighted. Graphs are one of the prime objects of study in discrete mathematics.&lt;/p>
+&lt;p>Problems in graph theory include graph or subgraph isomorphism, finding the largest clique in a graph, finding the chromatic number of a graph, finding the shortest path between two vertices, finding the minimum spanning tree of a graph, finding the maximum flow in a graph, etc. Currently, existing classical algorithms can solve these problems effectively. However, these algorithms are not scalable and cannot be applied to large-scaled graphs. In this project, I will explore how to use Deep Learning to solve graph theory problems with targeted large-scaled graphs and applications in drug discovery, social network analysis, etc.&lt;/p>
+&lt;h2 id="masters-thesis">Master&amp;rsquo;s Thesis&lt;/h2>
+&lt;p>My Master&amp;rsquo;s thesis focuses on enhancing subgraph isomorphism prediction models to improve scalability and interpretability, particularly for applications in drug design. I introduce xNeuSM, an Explainable Neural Subgraph Matching framework, which leverages Graph Learnable Multi-hop Attention Networks (GLeMA) to dynamically learn attention decay parameters across multiple hops. This approach eliminates reliance on fixed hyperparameters and provides theoretical guarantees on approximation errors. Empirical results on real-world datasets show that xNeuSM has higher accuracy than approximate baselines while achieving query times at least seven times faster than exact algorithms. These advancements make subgraph matching more practical for large-scale molecular analysis in drug discovery.&lt;/p>
+&lt;p>Master&amp;rsquo;s thesis PDF: &lt;a href="https://martinakaduc.github.io/uploads/LVThS_2270664_NguyenQuangDuc.pdf">Link&lt;/a>&lt;br>
+Master&amp;rsquo;s thesis presentation: &lt;a href="https://martinakaduc.github.io/slides/Slide_2270664_NguyenQuangDuc.pdf">Link&lt;/a>&lt;br>
+Master&amp;rsquo;s thesis code: &lt;a href="https://github.com/martinakaduc/xNeuSM" target="_blank" rel="noopener">Link&lt;/a>&lt;/p>
+&lt;h2 id="publications">Publications&lt;/h2>
+&lt;ul>
+&lt;li>Duc Q. Nguyen, &lt;em>et al.&lt;/em> &amp;ldquo;10X Faster Subgraph Matching: Dual Matching Networks with Interleaved Diffusion Attention&amp;rdquo;, In &lt;em>Proceedings of 2023 International Joint Conference on Neural Networks&lt;/em> (IJCNN), 2023. &lt;a href="https://ieeexplore.ieee.org/document/10191159" target="_blank" rel="noopener">[PDF]&lt;/a> &lt;a href="https://github.com/martinakaduc/xDualSM" target="_blank" rel="noopener">[Code]&lt;/a>&lt;/li>
+&lt;li>Duc Q. Nguyen, &lt;em>et al.&lt;/em>, &amp;ldquo;Explainable Neural Subgraph Matching With Learnable Multi-Hop Attention,&amp;rdquo; &lt;em>IEEE Access&lt;/em>, vol. 12, pp. 130474–130492, 2024. &lt;a href="https://ieeexplore.ieee.org/document/10677500" target="_blank" rel="noopener">[PDF]&lt;/a> &lt;a href="https://github.com/martinakaduc/xNeuSM" target="_blank" rel="noopener">[Code]&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>

@@ -1,63 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Vietnamese | Duc Q. Nguyen</title>
-    <link>https://martinakaduc.github.io/tag/vietnamese/</link>
-      <atom:link href="https://martinakaduc.github.io/tag/vietnamese/index.xml" rel="self" type="application/rss+xml" />
-    <description>Vietnamese</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Mar 2024 10:10:10 +0000</lastBuildDate>
-    <image>
-      <url>https://martinakaduc.github.io/media/icon_hu263ca39e98b046b5641ca652ce5a1514_340372_512x512_fill_lanczos_center_3.png</url>
-      <title>Vietnamese</title>
-      <link>https://martinakaduc.github.io/tag/vietnamese/</link>
-    </image>
-    
-    <item>
-      <title>Breaking Ground in Vietnamese Language Models</title>
-      <link>https://martinakaduc.github.io/post/mixsura-gemsura/</link>
-      <pubDate>Tue, 12 Mar 2024 10:10:10 +0000</pubDate>
-      <guid>https://martinakaduc.github.io/post/mixsura-gemsura/</guid>
-      <description>&lt;p&gt;🌟 Breaking Ground in Vietnamese Language Models! 🌟&lt;/p&gt;
-&lt;p&gt;We are thrilled to unveil our latest advancements in language modeling tailored specifically for the Vietnamese community! 🇻🇳 Get ready to meet our newest members:&lt;/p&gt;
-&lt;p&gt;🔹 &lt;strong&gt;MixSUra&lt;/strong&gt;: Harnessing the power of Mixtral, the pioneering MoE (Mixture of Experts) LLM for Vietnamese, MixSUra is set to revolutionize natural language processing with its unparalleled capabilities.&lt;/p&gt;
-&lt;p&gt;🔹 &lt;strong&gt;GemSUra 7B, 2B&lt;/strong&gt;: Developed based on Google&amp;rsquo;s Gemma 7B, 2B models, GemSUra boasts an extensive vocabulary and precision-engineered algorithms, promising an exceptional linguistic experience like never before.&lt;/p&gt;
-&lt;p&gt;But here&amp;rsquo;s where it gets even more exciting! 🚀 We&amp;rsquo;re not just stopping at language. We&amp;rsquo;re integrating cutting-edge vision-enabled capabilities into our models, creating a seamless fusion of language and image understanding. Introducing:&lt;/p&gt;
-&lt;p&gt;🔸 &lt;strong&gt;MixSUraV&lt;/strong&gt;
-🔸 &lt;strong&gt;GemSUraV 7B, 2B&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;By incorporating the innovative LLaVA architecture, these models redefine the boundaries of AI by not only understanding language but also interpreting visual data, opening up endless possibilities for applications across various domains.&lt;/p&gt;
-&lt;p&gt;Get ready to embark on a journey of unparalleled AI excellence! Stay tuned for the official release, and join us as we pave the way for a new era of language modeling.&lt;/p&gt;
-&lt;p&gt;#VietnameseLLM #AIInnovation #LanguageModeling #VietnameseLanguage #MixSUra #GemSUra #LLaVAArchitecture&lt;/p&gt;
-&lt;p&gt;🌐📲✨
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vietnamese | Duc Q. Nguyen</title><link>https://martinakaduc.github.io/tag/vietnamese/</link><atom:link href="https://martinakaduc.github.io/tag/vietnamese/index.xml" rel="self" type="application/rss+xml"/><description>Vietnamese</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Mar 2024 10:10:10 +0000</lastBuildDate><image><url>https://martinakaduc.github.io/media/icon_hu263ca39e98b046b5641ca652ce5a1514_340372_512x512_fill_lanczos_center_3.png</url><title>Vietnamese</title><link>https://martinakaduc.github.io/tag/vietnamese/</link></image><item><title>Breaking Ground in Vietnamese Language Models</title><link>https://martinakaduc.github.io/post/mixsura-gemsura/</link><pubDate>Tue, 12 Mar 2024 10:10:10 +0000</pubDate><guid>https://martinakaduc.github.io/post/mixsura-gemsura/</guid><description>&lt;p>🌟 Breaking Ground in Vietnamese Language Models! 🌟&lt;/p>
+&lt;p>We are thrilled to unveil our latest advancements in language modeling tailored specifically for the Vietnamese community! 🇻🇳 Get ready to meet our newest members:&lt;/p>
+&lt;p>🔹 &lt;strong>MixSUra&lt;/strong>: Harnessing the power of Mixtral, the pioneering MoE (Mixture of Experts) LLM for Vietnamese, MixSUra is set to revolutionize natural language processing with its unparalleled capabilities.&lt;/p>
+&lt;p>🔹 &lt;strong>GemSUra 7B, 2B&lt;/strong>: Developed based on Google&amp;rsquo;s Gemma 7B, 2B models, GemSUra boasts an extensive vocabulary and precision-engineered algorithms, promising an exceptional linguistic experience like never before.&lt;/p>
+&lt;p>But here&amp;rsquo;s where it gets even more exciting! 🚀 We&amp;rsquo;re not just stopping at language. We&amp;rsquo;re integrating cutting-edge vision-enabled capabilities into our models, creating a seamless fusion of language and image understanding. Introducing:&lt;/p>
+&lt;p>🔸 &lt;strong>MixSUraV&lt;/strong>
+🔸 &lt;strong>GemSUraV 7B, 2B&lt;/strong>&lt;/p>
+&lt;p>By incorporating the innovative LLaVA architecture, these models redefine the boundaries of AI by not only understanding language but also interpreting visual data, opening up endless possibilities for applications across various domains.&lt;/p>
+&lt;p>Get ready to embark on a journey of unparalleled AI excellence! Stay tuned for the official release, and join us as we pave the way for a new era of language modeling.&lt;/p>
+&lt;p>#VietnameseLLM #AIInnovation #LanguageModeling #VietnameseLanguage #MixSUra #GemSUra #LLaVAArchitecture&lt;/p>
+&lt;p>🌐📲✨
 MixSUra family: ​​https://huggingface.co/collections/ura-hcmut/mixsura-65d6fae4fc2da9f5bdf59a79
-GemSUra family: &lt;a href=&#34;https://huggingface.co/collections/ura-hcmut/gemsura-65da96cd27be2e8c65f17131&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://huggingface.co/collections/ura-hcmut/gemsura-65da96cd27be2e8c65f17131&lt;/a&gt;
-GemSUra-7B Chatbot: &lt;a href=&#34;https://www.ura.hcmut.edu.vn/gemsura-chat/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ura.hcmut.edu.vn/gemsura-chat/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>URA-LLaMa</title>
-      <link>https://martinakaduc.github.io/post/ura-llama-announcement/</link>
-      <pubDate>Tue, 10 Oct 2023 10:10:10 +0000</pubDate>
-      <guid>https://martinakaduc.github.io/post/ura-llama-announcement/</guid>
-      <description>&lt;p&gt;Hello everyone,&lt;/p&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;As a research team formed from members in Ho Chi Minh City University of Technology (HCMUT) - VNU-HCM and Stanford University, we are pleased to introduce our large language models to the community. We affectionately refer to those language models as URA-LLaMa. They are fine-tuned on Vietnamese datasets from Meta&amp;rsquo;s original LLaMa-2 model, including all three versions of 7B, 13B, and 70B.&lt;/p&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;We provide these models free of charge for research purposes. Our models come with evaluation results on 10 different tasks, covering various aspects and real-world usage scenarios. You can find information about our models at the following links:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;URA-LLaMa 7B: &lt;a href=&#34;https://huggingface.co/ura-hcmut/ura-llama-7b&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://huggingface.co/ura-hcmut/ura-llama-7b&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;URA-LLaMa 13B: &lt;a href=&#34;https://huggingface.co/ura-hcmut/ura-llama-13b&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://huggingface.co/ura-hcmut/ura-llama-13b&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;URA-LLaMa 70B: &lt;a href=&#34;https://huggingface.co/ura-hcmut/ura-llama-70b&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://huggingface.co/ura-hcmut/ura-llama-70b&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;License and User Agreement: &lt;a href=&#34;https://github.com/martinakaduc/ura-llama-public/blob/main/URA-LLaMa%20Model%20User%20Agreement.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/martinakaduc/ura-llama-public/blob/main/URA-LLaMa%20Model%20User%20Agreement.pdf&lt;/a&gt;
-Playground for URA-LLaMa 7B: &lt;a href=&#34;https://huggingface.co/spaces/ura-hcmut/ura-llama-playground&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://huggingface.co/spaces/ura-hcmut/ura-llama-playground&lt;/a&gt;
-URA-LLaMa Evaluation Results (Actively updating): &lt;a href=&#34;https://huggingface.co/spaces/ura-hcmut/ura-llama-evaluation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://huggingface.co/spaces/ura-hcmut/ura-llama-evaluation&lt;/a&gt;\&lt;/p&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;If you want to contribute to the development of large language models for Vietnamese, please do not hesitate to contact us using the information below.&lt;/p&gt;
-&lt;p&gt;About the research group:&lt;br&gt;
-Website: &lt;a href=&#34;https://www.ura.hcmut.edu.vn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ura.hcmut.edu.vn&lt;/a&gt;&lt;br&gt;
-Email: qttho dot hcmut dot edu dot vn&lt;/p&gt;
-&lt;p&gt;About the model licenses: nqduc at hcmut dot edu dot vn (CC sttruong at cs dot stanford dot edu; qttho at hcmut dot edu dot vn)&lt;br&gt;
-Thank you all.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+GemSUra family: &lt;a href="https://huggingface.co/collections/ura-hcmut/gemsura-65da96cd27be2e8c65f17131" target="_blank" rel="noopener">https://huggingface.co/collections/ura-hcmut/gemsura-65da96cd27be2e8c65f17131&lt;/a>
+GemSUra-7B Chatbot: &lt;a href="https://www.ura.hcmut.edu.vn/gemsura-chat/" target="_blank" rel="noopener">https://www.ura.hcmut.edu.vn/gemsura-chat/&lt;/a>&lt;/p></description></item><item><title>URA-LLaMa</title><link>https://martinakaduc.github.io/post/ura-llama-announcement/</link><pubDate>Tue, 10 Oct 2023 10:10:10 +0000</pubDate><guid>https://martinakaduc.github.io/post/ura-llama-announcement/</guid><description>&lt;p>Hello everyone,&lt;/p>
+&lt;p style="text-align: justify;">As a research team formed from members in Ho Chi Minh City University of Technology (HCMUT) - VNU-HCM and Stanford University, we are pleased to introduce our large language models to the community. We affectionately refer to those language models as URA-LLaMa. They are fine-tuned on Vietnamese datasets from Meta&amp;rsquo;s original LLaMa-2 model, including all three versions of 7B, 13B, and 70B.&lt;/p>
+&lt;p style="text-align: justify;">We provide these models free of charge for research purposes. Our models come with evaluation results on 10 different tasks, covering various aspects and real-world usage scenarios. You can find information about our models at the following links:&lt;/p>
+&lt;ul>
+&lt;li>URA-LLaMa 7B: &lt;a href="https://huggingface.co/ura-hcmut/ura-llama-7b" target="_blank" rel="noopener">https://huggingface.co/ura-hcmut/ura-llama-7b&lt;/a>&lt;/li>
+&lt;li>URA-LLaMa 13B: &lt;a href="https://huggingface.co/ura-hcmut/ura-llama-13b" target="_blank" rel="noopener">https://huggingface.co/ura-hcmut/ura-llama-13b&lt;/a>&lt;/li>
+&lt;li>URA-LLaMa 70B: &lt;a href="https://huggingface.co/ura-hcmut/ura-llama-70b" target="_blank" rel="noopener">https://huggingface.co/ura-hcmut/ura-llama-70b&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>License and User Agreement: &lt;a href="https://github.com/martinakaduc/ura-llama-public/blob/main/URA-LLaMa%20Model%20User%20Agreement.pdf" target="_blank" rel="noopener">https://github.com/martinakaduc/ura-llama-public/blob/main/URA-LLaMa%20Model%20User%20Agreement.pdf&lt;/a>
+Playground for URA-LLaMa 7B: &lt;a href="https://huggingface.co/spaces/ura-hcmut/ura-llama-playground" target="_blank" rel="noopener">https://huggingface.co/spaces/ura-hcmut/ura-llama-playground&lt;/a>
+URA-LLaMa Evaluation Results (Actively updating): &lt;a href="https://huggingface.co/spaces/ura-hcmut/ura-llama-evaluation" target="_blank" rel="noopener">https://huggingface.co/spaces/ura-hcmut/ura-llama-evaluation&lt;/a>\&lt;/p>
+&lt;p style="text-align: justify;">If you want to contribute to the development of large language models for Vietnamese, please do not hesitate to contact us using the information below.&lt;/p>
+&lt;p>About the research group:&lt;br>
+Website: &lt;a href="https://www.ura.hcmut.edu.vn" target="_blank" rel="noopener">https://www.ura.hcmut.edu.vn&lt;/a>&lt;br>
+Email: qttho dot hcmut dot edu dot vn&lt;/p>
+&lt;p>About the model licenses: nqduc at hcmut dot edu dot vn (CC sttruong at cs dot stanford dot edu; qttho at hcmut dot edu dot vn)&lt;br>
+Thank you all.&lt;/p></description></item></channel></rss>
