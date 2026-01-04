@@ -19,11 +19,13 @@ I explore how to use Deep Learning to solve graph theory problems with targeted 
 My Master's thesis focuses on enhancing subgraph isomorphism prediction models to improve scalability and interpretability, particularly for applications in drug design. I introduce **xNeuSM**, an Explainable Neural Subgraph Matching framework, which leverages Graph Learnable Multi-hop Attention Networks (GLeMA) to dynamically learn attention decay parameters across multiple hops.
 
 ### Key Results
+
 - Higher accuracy than approximate baselines
 - Query times at least **7x faster** than exact algorithms
 - Practical for large-scale molecular analysis in drug discovery
 
 ### Resources
+
 - Master's thesis PDF: [Link](/assets/pdf/LVThS_2270664_NguyenQuangDuc.pdf)
 - Master's thesis presentation: [Link](/assets/pdf/Slide_2270664_NguyenQuangDuc.pdf)
 - Master's thesis code: [Link](https://github.com/martinakaduc/xNeuSM)

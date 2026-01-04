@@ -13,19 +13,15 @@ layout: default
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-meta">
       {% if page.date %}
-        <i class="fa-solid fa-calendar"></i> {{ page.date | date: "%B %-d, %Y" }}
-        {% if page.date_end %} - {{ page.date_end | date: "%B %-d, %Y" }}{% endif %}
+        <i class="fa-solid fa-calendar"></i> {{ page.date | date: '%B %-d, %Y' }}
+        {% if page.date_end %} - {{ page.date_end | date: '%B %-d, %Y' }}{% endif %}
       {% endif %}
     </p>
     {% if page.event %}
-      <p class="post-meta">
-        <i class="fa-solid fa-chalkboard-user"></i> {{ page.event }}
-      </p>
+      <p class="post-meta"><i class="fa-solid fa-chalkboard-user"></i> {{ page.event }}</p>
     {% endif %}
     {% if page.location %}
-      <p class="post-meta">
-        <i class="fa-solid fa-location-dot"></i> {{ page.location }}
-      </p>
+      <p class="post-meta"><i class="fa-solid fa-location-dot"></i> {{ page.location }}</p>
     {% endif %}
     {% if page.description %}
       <p class="post-description">{{ page.description }}</p>
@@ -46,14 +42,10 @@ layout: default
         </a>
       {% endif %}
       {% if page.video %}
-        <a href="{{ page.video }}" class="btn btn-sm z-depth-0" role="button" target="_blank">
-          <i class="fa-brands fa-youtube"></i> Video
-        </a>
+        <a href="{{ page.video }}" class="btn btn-sm z-depth-0" role="button" target="_blank"> <i class="fa-brands fa-youtube"></i> Video </a>
       {% endif %}
       {% if page.code %}
-        <a href="{{ page.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank">
-          <i class="fa-solid fa-code"></i> Code
-        </a>
+        <a href="{{ page.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank"> <i class="fa-solid fa-code"></i> Code </a>
       {% endif %}
     </div>
   {% endif %}
@@ -63,7 +55,7 @@ layout: default
       <h2>Abstract</h2>
       <p class="abstract">{{ page.abstract }}</p>
     {% endif %}
-    
+
     {{ content }}
   </article>
 

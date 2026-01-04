@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 ✅ Successfully defended Bachelor's thesis: "AI-Powered Decision Support System for Antiviral Pharmaceutical Formulation".
-

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📝 Published paper on xNeuSM in **IEEE Access** [[Paper]](https://ieeexplore.ieee.org/document/10677500). 
+📝 Published paper on xNeuSM in **IEEE Access** [[Paper]](https://ieeexplore.ieee.org/document/10677500).

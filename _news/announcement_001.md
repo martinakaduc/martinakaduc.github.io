@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 🎓 Began undergraduate studies in Computer Science at Ho Chi Minh City University of Technology (HCMUT), Vietnam National University.
-

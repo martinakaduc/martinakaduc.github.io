@@ -26,11 +26,13 @@ My graduate thesis focused on the application of deep learning to drug discovery
 Try our drug discovery system: [Link](http://www.ura.hcmut.edu.vn/vidok)
 
 The system provides:
+
 - Pharmacophore model visualization
 - Drug-target interaction prediction
 - Molecule screening and recommendation
 
 ### Resources
+
 - Thesis PDF: [Link](/assets/pdf/LVTN_1810118_NguyenQuangDuc.pdf)
 - Thesis presentation: [Link](/assets/pdf/Slide_1810118_NguyenQuangDuc.pdf)
 - Thesis code: [Link](https://github.com/ViDok-BK)

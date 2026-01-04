@@ -15,18 +15,14 @@
         <h5 class="card-title font-weight-bold">{{ talk.title }}</h5>
         <p class="card-text text-muted">
           {% if talk.date %}
-            <i class="fa-solid fa-calendar"></i> {{ talk.date | date: "%B %-d, %Y" }}
+            <i class="fa-solid fa-calendar"></i> {{ talk.date | date: '%B %-d, %Y' }}
           {% endif %}
         </p>
         {% if talk.event %}
-          <p class="card-text">
-            <i class="fa-solid fa-chalkboard-user"></i> {{ talk.event }}
-          </p>
+          <p class="card-text"><i class="fa-solid fa-chalkboard-user"></i> {{ talk.event }}</p>
         {% endif %}
         {% if talk.location %}
-          <p class="card-text">
-            <i class="fa-solid fa-location-dot"></i> {{ talk.location }}
-          </p>
+          <p class="card-text"><i class="fa-solid fa-location-dot"></i> {{ talk.location }}</p>
         {% endif %}
         <p class="card-text">{{ talk.description }}</p>
         <div class="pt-2 mt-auto d-flex align-items-center">

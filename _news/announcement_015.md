@@ -8,6 +8,7 @@ related_posts: false
 tags: llm vietnamese research
 categories: deep-learning
 ---
+
 <div class="row mt-3">
     <div class="col-sm mx-auto">
         {% include figure.liquid loading="eager" path="assets/img/posts/mixsura-gemsura.jpg" class="img-fluid rounded z-depth-1" %}
@@ -21,9 +22,11 @@ We are thrilled to unveil our latest advancements in language modeling tailored 
 ## New Model Releases
 
 ### 🔹 MixSUra
+
 Harnessing the power of Mixtral, the pioneering MoE (Mixture of Experts) LLM for Vietnamese, MixSUra is set to revolutionize natural language processing with its unparalleled capabilities.
 
 ### 🔹 GemSUra 7B, 2B
+
 Developed based on Google's Gemma 7B, 2B models, GemSUra boasts an extensive vocabulary and precision-engineered algorithms, promising an exceptional linguistic experience like never before.
 
 ## Vision-Language Models

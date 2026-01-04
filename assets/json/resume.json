@@ -209,32 +209,19 @@
       "name": "Machine Learning",
       "level": "Expert",
       "icon": "fa-solid fa-brain",
-      "keywords": [
-        "Large Language Models",
-        "Graph Neural Networks",
-        "Probabilistic Methods"
-      ]
+      "keywords": ["Large Language Models", "Graph Neural Networks", "Probabilistic Methods"]
     },
     {
       "name": "Programming",
       "level": "Expert",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "C/C++",
-        "Python",
-        "PyTorch"
-      ]
+      "keywords": ["C/C++", "Python", "PyTorch"]
     },
     {
       "name": "Tools",
       "level": "Advanced",
       "icon": "fa-solid fa-tools",
-      "keywords": [
-        "Git",
-        "Docker",
-        "Linux",
-        "LaTeX"
-      ]
+      "keywords": ["Git", "Docker", "Linux", "LaTeX"]
     }
   ],
   "languages": [
@@ -253,27 +240,17 @@
     {
       "name": "Generative Models",
       "icon": "fa-solid fa-wand-magic-sparkles",
-      "keywords": [
-        "Large Language Models",
-        "Diffusion Models"
-      ]
+      "keywords": ["Large Language Models", "Diffusion Models"]
     },
     {
       "name": "Graph Representation Learning",
       "icon": "fa-solid fa-diagram-project",
-      "keywords": [
-        "Graph Neural Networks",
-        "Subgraph Matching"
-      ]
+      "keywords": ["Graph Neural Networks", "Subgraph Matching"]
     },
     {
       "name": "Probabilistic Machine Learning",
       "icon": "fa-solid fa-chart-line",
-      "keywords": [
-        "Bayesian Optimization",
-        "Decision Making",
-        "Probabilistic Inference"
-      ]
+      "keywords": ["Bayesian Optimization", "Decision Making", "Probabilistic Inference"]
     }
   ],
   "references": [

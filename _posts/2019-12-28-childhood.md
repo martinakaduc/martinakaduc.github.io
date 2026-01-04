@@ -22,7 +22,7 @@ I poured soda into the jars and pretended to be drinking.\
 I hide behind the door to scare people, but sometimes leave because I feel so long no one has come or because of urination.\
 I pretended to be asleep and let my dad carry me to bed. I think the moon follows my bike.\
 I looked at the two small drops of rain on the window thinking that it was racing.\
-I ate the fruit but accidentally swallowed the seed and then I was terrified of the fear that it would grow in my stomach. 
+I ate the fruit but accidentally swallowed the seed and then I was terrified of the fear that it would grow in my stomach.
 
 Do you remember the days we were young when we wished to grow up quickly?\
 Do not know what we have thought?\
