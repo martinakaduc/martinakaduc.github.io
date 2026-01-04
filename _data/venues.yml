@@ -1,9 +1,51 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"Sci. Rep.":
+  url: https://www.nature.com/srep/
+  color: "black"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"IEEE Access":
+  url: https://ieeeaccess.ieee.org/
+  color: "navy"
 
-"Vision":
-  color: "#009f36"
+"NAACL":
+  url: https://naacl.org/
+  color: "orangered"
+
+"EMNLP":
+  url: https://emnlp.org/
+  color: "darkgreen"
+
+"ESWA":
+  url: https://www.journals.elsevier.com/expert-systems-with-applications
+  color: "darkred"
+
+"AAAI":
+  url: https://aaai.org/
+  color: "goldenrod"
+
+"AIED":
+  url: https://www.aied-conference.org/
+  color: "purple"
+
+"ICLR":
+  url: https://iclr.cc/
+  color: "teal"
+
+"ICML":
+  url: https://icml.cc/
+  color: "darkorange"
+
+"IJCNN":
+  url: https://www.ijcnn.org/
+  color: "darkcyan"
+
+"ICCCI":
+  url: https://www.iccci.org/
+  color: "brown"
+
+"AISTATS":
+  url: https://aistats.org/
+  color: "darkmagenta"
+
+"NeurIPS":
+  url: https://nips.cc/
+  color: "darkblue"

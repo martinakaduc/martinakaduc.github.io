@@ -881,6 +881,35 @@ footer.sticky-bottom {
       div.abstract.hidden.open {
         border-color: var(--global-text-color);
       }
+
+      div.bibtex.hidden {
+        border: dashed 1px var(--global-bg-color);
+        text-align: left;
+
+        figure.highlight {
+          margin: 0;
+          overflow-x: auto;
+
+          pre {
+            font-size: 0.75rem;
+            line-height: 1.4em;
+            padding: 10px;
+            margin: 0;
+            white-space: pre;
+            text-align: left;
+            overflow-x: auto;
+
+            code {
+              font-size: 0.75rem;
+              white-space: pre;
+            }
+          }
+        }
+      }
+
+      div.bibtex.hidden.open {
+        border-color: var(--global-theme-color);
+      }
     }
     div.award.hidden {
       border: dashed 1px var(--global-bg-color);

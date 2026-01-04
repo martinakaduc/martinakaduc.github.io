@@ -1,200 +1,349 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Duc Q. Nguyen",
+    "label": "PhD Student in Computer Science",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "nqduc@u.nus.edu",
+    "phone": "(+65) 8257-7184",
+    "url": "https://www.comp.nus.edu.sg/~nqduc",
+    "summary": "My foremost goal is to amplify human potential through artificial intelligence. My research interests lie in human-AI alignment, with a particular focus on generative models and probabilistic methods. I aim to develop methods that can collaborate effectively with humans to enhance their capabilities in critical domains such as healthcare and education.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "29 Prince George's Park",
+      "postalCode": "118426",
+      "city": "Singapore",
+      "countryCode": "SG",
+      "region": "Singapore"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "martinakaduc",
+        "url": "https://x.com/martinakaduc"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Ho Chi Minh City University of Technology (HCMUT) - Vietnam National University HCMC",
+      "position": "Teaching Assistant",
+      "url": "https://cse.hcmut.edu.vn/en/bo-mon-khoa-hoc-may-tinh",
+      "startDate": "2023-04-01",
+      "endDate": "2025-07-31",
+      "summary": "Developed Vietnamese Large Language Models (URA-LLaMa, MixSUra, GemSUra). Conducted research on graph neural networks for drug discovery and subgraph matching. Worked on neural machine translation for low-resource languages (Bahnaric).",
+      "highlights": ["Vietnamese LLMs", "Graph Neural Networks", "Drug Discovery", "Neural Machine Translation"]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Stanford University",
+      "position": "Visiting Student Researcher",
+      "url": "https://stair.cs.stanford.edu/team/#-visiting-students",
+      "startDate": "2024-09-01",
+      "endDate": "2024-12-31",
+      "summary": "Working on generative models and probabilistic machine learning at STAIR Lab, advised by Prof. Sanmi Koyejo and mentored by Sang T. Truong.",
+      "highlights": ["Generative Models", "Probabilistic Machine Learning"]
+    },
+    {
+      "name": "URA Lab, HCMUT",
+      "position": "Research Assistant",
+      "url": "https://www.ura.hcmut.edu.vn",
+      "startDate": "2022-02-01",
+      "endDate": "2025-07-31",
+      "summary": "Developed Vietnamese Large Language Models (URA-LLaMa, MixSUra, GemSUra). Conducted research on graph neural networks for drug discovery and subgraph matching. Worked on neural machine translation for low-resource languages (Bahnaric).",
+      "highlights": ["Vietnamese LLMs", "Graph Neural Networks", "Drug Discovery", "Neural Machine Translation"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "National University of Singapore (NUS)",
+      "location": "Singapore",
+      "url": "https://www.comp.nus.edu.sg",
+      "area": "Computer Science",
+      "studyType": "Doctor of Philosophy",
+      "startDate": "2025-08-01",
+      "endDate": "",
+      "score": "",
+      "courses": ["Generative Models", "Graph Representation Learning", "Probabilistic Machine Learning"]
+    },
+    {
+      "institution": "Ho Chi Minh City University of Technology (HCMUT), VNU-HCM",
+      "location": "Ho Chi Minh City, Vietnam",
+      "url": "https://www.hcmut.edu.vn",
+      "area": "Computer Science",
+      "studyType": "Master of Engineering",
+      "startDate": "2023-01-09",
+      "endDate": "2025-04-25",
+      "score": "3.65/4.0",
+      "courses": ["Explainable Neural Subgraph Matching", "Graph Neural Networks"]
+    },
+    {
+      "institution": "Ho Chi Minh City University of Technology (HCMUT), VNU-HCM",
+      "location": "Ho Chi Minh City, Vietnam",
+      "url": "https://www.hcmut.edu.vn",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2018-08-13",
+      "endDate": "2022-11-18",
+      "score": "3.50/4.0",
+      "courses": ["Drug-Target Interaction Prediction", "Graph Neural Networks"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Microsoft Accelerate Foundation Models Research (AMFR)",
+      "date": "2023-10-03",
+      "awarder": "Microsoft Research",
+      "url": "https://www.microsoft.com/en-us/research/collaboration/accelerating-foundation-models-research/",
+      "summary": "Selected to receive funding for foundation research on Vietnamese Large Language Models."
+    },
+    {
+      "title": "Best Paper Award",
+      "date": "2022-10-24",
+      "awarder": "NICS Conference",
+      "url": "https://ieeexplore.ieee.org/document/10013437/",
+      "summary": "Awarded for research on COVID-19 Drug-Target Interaction Prediction."
+    },
+    {
+      "title": "Master's Scholarship",
+      "date": "2022-12-08",
+      "awarder": "Vingroup Innovation Foundation (VinIF)",
+      "url": "https://vinif.org/en/sponsor-programs/postgraduate-scholarships/",
+      "summary": "1-year scholarship for Master's studies in Computer Science."
+    },
+    {
+      "title": "Certificate of Merit - IT & AI Research",
+      "date": "2021-12-29",
+      "awarder": "HCMC Department of Information and Communication",
+      "url": "https://ict-hcm.gov.vn",
+      "summary": "Awarded for outstanding achievements in Information Technology and Artificial Intelligence research."
+    },
+    {
+      "title": "First Prize in Biomedical Category",
+      "date": "2020-11-28",
+      "awarder": "Euréka Student Scientific Research Award",
+      "url": "https://khoahoctre.com.vn/en/student-scientific-research-award-eureka/",
+      "summary": "Recognition for outstanding research about COVID-19 forecasting in biomedical."
+    },
+    {
+      "title": "Merit Award - First Prize in Biomedical Category",
+      "date": "2021-04-16",
+      "awarder": "Ministry of Information and Communications",
+      "url": "https://english.mic.gov.vn",
+      "summary": "Awarded for First Prize in Biomedical Category at Euréka Student Scientific Research Award."
+    },
+    {
+      "title": "Typical Student Certificate",
+      "date": "2020-12-29",
+      "awarder": "BK Youth Award",
+      "url": "https://www.hcmut.edu.vn",
+      "summary": "Recognized as an outstanding student at HCMUT."
+    },
+    {
+      "title": "Certificate of Merit - AI Research",
+      "date": "2019-12-27",
+      "awarder": "HCMC Department of Information and Communication",
+      "url": "https://ict-hcm.gov.vn",
+      "summary": "Awarded for excellent achievements in Artificial Intelligence research."
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Social and Behavioral Research - Basic/Refresher",
+      "date": "2025-12-04",
+      "issuer": "CITI Program",
+      "url": "https://www.citiprogram.org/verify/?w4ab5c950-25e5-4aa7-b64b-2cb16b42b737-73989921",
+      "icon": "fa-solid fa-certificate"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Responsible Conduct of Research - Basic",
+      "date": "2025-07-11",
+      "issuer": "CITI Program",
+      "url": "https://www.citiprogram.org/verify/?w158c9873-50d5-4a26-b1da-5a2175cae419-70456492",
+      "icon": "fa-solid fa-certificate"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "EF SET English Certificate 75/100 (C2 Proficient)",
+      "date": "2021-11-23",
+      "issuer": "EF SET",
+      "url": "https://www.efset.org/cert/bjggMh",
+      "icon": "fa-solid fa-certificate"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Neural Nonmyopic Bayesian Optimization in Dynamic Cost Settings",
+      "publisher": "ICLR 2025 Workshop: Towards Agentic AI for Science: Hypothesis Generation, Comprehension, Quantification, and Validation",
+      "releaseDate": "2025-04-24",
+      "url": "https://iclr.cc/virtual/2025/33145",
+      "summary": "Research on advanced Bayesian optimization methods for dynamic cost settings."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Explainable Neural Subgraph Matching With Learnable Multi-Hop Attention",
+      "publisher": "IEEE Access",
+      "releaseDate": "2024-09-11",
+      "url": "https://ieeexplore.ieee.org/document/10677500",
+      "summary": "Novel approach to explainable neural subgraph matching using learnable multi-hop attention mechanisms."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Crossing Linguistic Horizons: Finetuning and Evaluation of Vietnamese Large Language Models",
+      "publisher": "NAACL 2024",
+      "releaseDate": "2024-06-16",
+      "url": "https://aclanthology.org/2024.findings-naacl.182/",
+      "summary": "Comprehensive study on finetuning and evaluation of Vietnamese Large Language Models."
+    },
+    {
+      "name": "Towards De Novo Drug Design for the Coronavirus: A Drug-Target Interaction Prediction Approach using Atom-enhanced Graph Neural Network with Multi-hop Gating Mechanism",
+      "publisher": "NICS 2022",
+      "releaseDate": "2022-10-31",
+      "url": "https://ieeexplore.ieee.org/document/10013437",
+      "summary": "Award-winning research on drug-target interaction prediction for coronavirus drug design."
+    },
+    {
+      "name": "BeCaked: An Explainable Artificial Intelligence Model for COVID-19 Forecasting",
+      "publisher": "Scientific Reports (Nature Portfolio)",
+      "releaseDate": "2022-05-13",
+      "url": "https://www.nature.com/articles/s41598-022-11693-9",
+      "summary": "Explainable AI model for COVID-19 case forecasting with interpretable predictions."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Machine Learning",
+      "level": "Expert",
+      "icon": "fa-solid fa-brain",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Large Language Models",
+        "Graph Neural Networks",
+        "Probabilistic Methods"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "Expert",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "C/C++",
+        "Python",
+        "PyTorch"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "Advanced",
+      "icon": "fa-solid fa-tools",
+      "keywords": [
+        "Git",
+        "Docker",
+        "Linux",
+        "LaTeX"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Vietnamese",
       "fluency": "Native speaker",
-      "icon": ""
+      "icon": "fa-solid fa-flag-vi"
     },
     {
       "language": "English",
       "fluency": "Fluent",
-      "icon": ""
+      "icon": "fa-solid fa-globe"
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Generative Models",
+      "icon": "fa-solid fa-wand-magic-sparkles",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Large Language Models",
+        "Diffusion Models"
+      ]
+    },
+    {
+      "name": "Graph Representation Learning",
+      "icon": "fa-solid fa-diagram-project",
+      "keywords": [
+        "Graph Neural Networks",
+        "Subgraph Matching"
+      ]
+    },
+    {
+      "name": "Probabilistic Machine Learning",
+      "icon": "fa-solid fa-chart-line",
+      "keywords": [
+        "Bayesian Optimization",
+        "Decision Making",
+        "Probabilistic Inference"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Prof. Tan Zhi Xuan",
+      "icon": "fa-solid fa-user",
+      "reference": "PhD Advisor at National University of Singapore"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Prof. Sanmi Koyejo",
+      "icon": "fa-solid fa-user",
+      "reference": "Research Advisor at Stanford University"
+    },
+    {
+      "name": "Prof. Tho Quan",
+      "icon": "fa-solid fa-user",
+      "reference": "Master's and Bachelor's Advisor at HCMUT"
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Probabilistic Pedagogy for Accelerated Learning",
+      "summary": "Developed a computational framework for simulating interactive teaching scenarios between a teacher and a student. The framework models both rational and naive students and supports multiple teaching and learning strategies to study effective pedagogical approaches.",
+      "highlights": [
+        "Interactive teacher–student simulation",
+        "Rational and naive student models",
+        "Probabilistic teaching strategies",
+        "Learning strategy evaluation"
+      ],
+      "startDate": "2025-08-03",
+      "endDate": "2025-11-14",
+      "url": "https://github.com/martinakaduc/teaching_simulation"
+    },
+    {
+      "name": "Automatically Evolving Multi-agent Deep Research System",
+      "summary": "Developed an autonomous, evolving multi-agent system for deep research pipelines. The system generates research questions, conducts literature-style analysis, evaluates reports, and continuously improves itself through iterative feedback and fine-tuning.",
+      "highlights": [
+        "Multi-agent research automation",
+        "Autonomous question generation",
+        "Deep research and report evaluation",
+        "Model-agnostic LLM integration",
+        "Continuous self-improvement"
+      ],
+      "startDate": "2025-08-03",
+      "endDate": "2025-12-05",
+      "url": "https://github.com/martinakaduc/AutoEDP"
+    },
+    {
+      "name": "Vietnamese Large Language Models",
+      "summary": "Developed URA-LLaMa, MixSUra, and GemSUra - a family of Vietnamese Large Language Models with 7B, 13B, and 70B parameters.",
+      "highlights": ["URA-LLaMa", "MixSUra", "GemSUra", "Microsoft AMFR Funding"],
+      "startDate": "2023-06-01",
+      "endDate": "2024-06-30",
+      "url": "https://huggingface.co/ura-hcmut/"
+    },
+    {
+      "name": "Neural Subgraph Matching",
+      "summary": "Research on explainable and efficient neural subgraph matching methods with applications in drug discovery.",
+      "highlights": ["xNeuSM", "Dual Matching Networks", "Drug Design Applications"],
+      "startDate": "2023-01-09",
+      "endDate": "2025-01-15",
+      "url": "https://ieeexplore.ieee.org/document/10677500/"
+    },
+    {
+      "name": "BeCaked - COVID-19 Forecasting",
+      "summary": "Developed an explainable AI model for COVID-19 case forecasting, published in Scientific Reports.",
+      "highlights": ["Explainable AI", "Time Series Forecasting", "COVID-19"],
+      "startDate": "2020-06-01",
+      "endDate": "2022-08-31",
+      "url": "https://cse.hcmut.edu.vn/BeCaked/"
     }
   ]
 }
