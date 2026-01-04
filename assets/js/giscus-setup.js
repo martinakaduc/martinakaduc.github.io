@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "martinakaduc/web-resume",
+    "data-repo": "martinakaduc/martinakaduc.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",

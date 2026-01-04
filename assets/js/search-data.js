@@ -233,7 +233,7 @@ ninja.data = [{
           title: '🎓 Began doctoral studies at National University of Singapore (NUS).',
           description: "",
           section: "News",},{id: "news-granted-patent-vn-1-0053619-for-system-for-real-time-translation-of-sign-language-to-text-and-speech-patent",
-          title: '📜 Granted patent VN-1.0053619 for “System for Real-Time Translation of Sign Language to...',
+          title: '📜 Granted patent VN.1-0053619 for “System for Real-Time Translation of Sign Language to...',
           description: "",
           section: "News",},{id: "projects-drug-discovery",
           title: 'Drug Discovery',
