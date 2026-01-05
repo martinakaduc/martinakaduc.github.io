@@ -5,8 +5,8 @@ permalink: /projects/
 description: A showcase of my projects categorized by work and fun.
 nav: true
 nav_order: 3
-display_categories: [research]
-horizontal: false
+display_categories: [research, course]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
