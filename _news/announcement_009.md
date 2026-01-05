@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🏆 Received **Best Paper Award** at NICS 2022 for research on Drug-Target Interaction Prediction [[Paper]](https://ieeexplore.ieee.org/document/10013437/).
+🏆 Received **Best Paper Award** at NICS 2022 for research on Drug-Target Interaction Prediction [[Paper]](https://ieeexplore.ieee.org/document/10013437/) [[Certificate]](/assets/pdf/achievements/Best_Paper_NICS_2022.pdf).
