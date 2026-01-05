@@ -190,7 +190,7 @@ ninja.data = [{
           section: "News",},{id: "news-successfully-defended-bachelor-s-thesis-ai-powered-decision-support-system-for-antiviral-pharmaceutical-formulation",
           title: '✅ Successfully defended Bachelor’s thesis: “AI-Powered Decision Support System for Antiviral Pharmaceutical Formulation”....',
           description: "",
-          section: "News",},{id: "news-received-best-paper-award-at-nics-2022-for-research-on-drug-target-interaction-prediction-paper",
+          section: "News",},{id: "news-received-best-paper-award-at-nics-2022-for-research-on-drug-target-interaction-prediction-paper-certificate",
           title: '🏆 Received Best Paper Award at NICS 2022 for research on Drug-Target Interaction...',
           description: "",
           section: "News",},{id: "news-graduated-with-bachelor-of-engineering-from-hcmut-vnu-hcm",
