@@ -235,7 +235,12 @@ ninja.data = [{
           section: "News",},{id: "news-granted-patent-vn-1-0053619-for-system-for-real-time-translation-of-sign-language-to-text-and-speech-patent",
           title: '📜 Granted patent VN.1-0053619 for “System for Real-Time Translation of Sign Language to...',
           description: "",
-          section: "News",},{id: "projects-drug-discovery",
+          section: "News",},{id: "projects-automatically-evolving-multi-agent-deep-research-system",
+          title: 'Automatically Evolving Multi-agent Deep Research System',
+          description: "Developing AutoEDP, an autonomous framework that continuously refines LLMs for deep research through closed-loop self-improvement",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/deep_research/";
+            },},{id: "projects-drug-discovery",
           title: 'Drug Discovery',
           description: "AI-powered drug discovery for COVID-19 and beyond",
           section: "Projects",handler: () => {
@@ -245,6 +250,11 @@ ninja.data = [{
           description: "Using Deep Learning for graph theory and subgraph matching",
           section: "Projects",handler: () => {
               window.location.href = "/projects/graph_theory/";
+            },},{id: "projects-probabilistic-pedagogy-for-accelerated-learning",
+          title: 'Probabilistic Pedagogy for Accelerated Learning',
+          description: "Exploring how probabilistic models of teacher can accelerate learning through strategic example selection",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/teaching_simulation/";
             },},{id: "projects-large-language-models",
           title: 'Large Language Models',
           description: "Developing Vietnamese LLMs and applications",
