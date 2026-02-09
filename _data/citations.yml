@@ -1,22 +1,46 @@
 metadata:
-  last_updated: '2026-01-30'
+  last_updated: '2026-02-09'
 papers:
+  w1o63XAAAAAJ:0EnyYjriUFMC:
+    citations: 5
+    title: 'Revitalizing bahnaric language through neural machine translation: challenges, strategies, and promising outcomes'
+    year: '2024'
   w1o63XAAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: A system using hybrid deep neural network for modeling COVID-19 pandemic
     year: Unknown Year
+  w1o63XAAAAAJ:3fE2CSJIrl8C:
+    citations: 0
+    title: 'Unlocking the Potential: an evaluation of Text-to-Speech Models for the Bahnar Language'
+    year: '2023'
+  w1o63XAAAAAJ:5nxA0vEk-isC:
+    citations: 1
+    title: 'Bridging llms and symbolic reasoning in educational qa systems: Insights from the xai challenge at ijcnn 2025'
+    year: '2025'
+  w1o63XAAAAAJ:8k81kl-MbHgC:
+    citations: 0
+    title: 'FA-GPNet: When Gaussian Process Meets Auto-Encoder and FBCSP-A Hybrid Model for Motor Imagery Classification'
+    year: '2025'
   w1o63XAAAAAJ:9yKSN-GCB0IC:
     citations: 1
     title: 'Towards De Novo Drug Design for the Coronavirus: A Drug-Target Interaction Prediction Approach using Atom-enhanced Graph Neural Network with Multi-hop Gating Mechanism'
     year: '2022'
   w1o63XAAAAAJ:IjCSPb-OGe4C:
-    citations: 0
+    citations: 1
     title: Social Bot Detector using Graph Neural Networks
     year: '2022'
+  w1o63XAAAAAJ:KlAtU1dfN6UC:
+    citations: 0
+    title: OPTIMIZING SUBGRAPH ISOMORPHISM PREDICTION MODELS WITH APPLICATION ORIENTATION TO THE DRUG DESIGN PROCESS
+    year: Unknown Year
   w1o63XAAAAAJ:LkGwnXOMwfcC:
     citations: 0
     title: Nonmyopic Bayesian Optimization in Dynamic Cost Settings
     year: Unknown Year
+  w1o63XAAAAAJ:MXK_kJrjxJIC:
+    citations: 0
+    title: 'Voice conversion for natural-Sounding speech generation on low-Resource languages: A case study of bahnaric'
+    year: '2023'
   w1o63XAAAAAJ:Se3iqnhoufwC:
     citations: 0
     title: 'Riding on the Back of a Whale: A Hackathon Framework for Introducing High School Students to Large Language Models'
@@ -50,7 +74,7 @@ papers:
     title: A Novel Approach for Non-Query Fake News Detection Using K-SOM and Graph Neural Networks
     year: '2023'
   w1o63XAAAAAJ:_FxGoFyzp5QC:
-    citations: 4
+    citations: 5
     title: Explainable Neural Subgraph Matching with Learnable Multi-hop Attention
     year: '2024'
   w1o63XAAAAAJ:d1gkVwhDpl0C:
@@ -65,6 +89,10 @@ papers:
     citations: 0
     title: 'The Sound of Syntax: Finetuning and Comprehensive Evaluation of Language Models for Speech Pathology'
     year: '2025'
+  w1o63XAAAAAJ:kNdYIx-mwKoC:
+    citations: 0
+    title: 'BaNaVA: A cross-platform AI mobile application for preserving the Bahnaric languages'
+    year: '2023'
   w1o63XAAAAAJ:qjMakFHDy7sC:
     citations: 2
     title: Design, implementation and evaluation for a high precision prosthetic hand using MyoBand and Random Forest algorithm
