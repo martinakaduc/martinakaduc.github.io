@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-09'
+  last_updated: '2026-02-23'
 papers:
   w1o63XAAAAAJ:0EnyYjriUFMC:
     citations: 5
@@ -75,14 +75,14 @@ papers:
     year: '2023'
   w1o63XAAAAAJ:_FxGoFyzp5QC:
     citations: 5
-    title: Explainable Neural Subgraph Matching with Learnable Multi-hop Attention
+    title: Explainable neural subgraph matching with learnable multi-hop attention
     year: '2024'
   w1o63XAAAAAJ:d1gkVwhDpl0C:
-    citations: 19
+    citations: 20
     title: 'BeCaked: An Explainable Artificial Intelligence Model for COVID-19 Forecasting'
     year: '2022'
   w1o63XAAAAAJ:eQOLeE2rZwMC:
-    citations: 11
+    citations: 12
     title: 'Crossing linguistic horizons: Finetuning and comprehensive evaluation of Vietnamese large language models'
     year: '2024'
   w1o63XAAAAAJ:hqOjcs7Dif8C:
