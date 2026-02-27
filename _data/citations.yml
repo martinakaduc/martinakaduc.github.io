@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-23'
+  last_updated: '2026-02-27'
 papers:
   w1o63XAAAAAJ:0EnyYjriUFMC:
     citations: 5
@@ -54,7 +54,7 @@ papers:
     title: Automatic container code recognition using MultiDeep pipeline
     year: '2020'
   w1o63XAAAAAJ:UebtZRa9Y70C:
-    citations: 11
+    citations: 12
     title: 'Supervised learning models for social bot detection: Literature review and benchmark'
     year: '2024'
   w1o63XAAAAAJ:W7OEmFMy1HYC:
