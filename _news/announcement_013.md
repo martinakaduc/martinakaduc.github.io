@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎯 Received research funding from Microsoft Accelerate Foundation Models Research (AMFR) program.
+🎯 Received research funding from Microsoft Accelerate Foundation Models Research (AFMR) program.
