@@ -88,7 +88,7 @@
   ],
   "awards": [
     {
-      "title": "Microsoft Accelerate Foundation Models Research (AMFR)",
+      "title": "Microsoft Accelerate Foundation Models Research (AFMR)",
       "date": "2023-10-03",
       "awarder": "Microsoft Research",
       "url": "https://www.microsoft.com/en-us/research/collaboration/accelerating-foundation-models-research/",
@@ -301,7 +301,7 @@
     {
       "name": "Vietnamese Large Language Models",
       "summary": "Developed URA-LLaMa, MixSUra, and GemSUra - a family of Vietnamese Large Language Models with 7B, 13B, and 70B parameters.",
-      "highlights": ["URA-LLaMa", "MixSUra", "GemSUra", "Microsoft AMFR Funding"],
+      "highlights": ["URA-LLaMa", "MixSUra", "GemSUra", "Microsoft AFMR Funding"],
       "startDate": "2023-06-01",
       "endDate": "2024-06-30",
       "url": "https://huggingface.co/ura-hcmut/"
