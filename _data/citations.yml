@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-04-10'
+  last_updated: '2026-05-04'
 papers:
   w1o63XAAAAAJ:0EnyYjriUFMC:
-    citations: 5
+    citations: 6
     title: 'Revitalizing bahnaric language through neural machine translation: challenges, strategies, and promising outcomes'
     year: '2024'
   w1o63XAAAAAJ:2osOgNQ5qMEC:
@@ -14,7 +14,7 @@ papers:
     title: 'Unlocking the Potential: an evaluation of Text-to-Speech Models for the Bahnar Language'
     year: '2023'
   w1o63XAAAAAJ:5nxA0vEk-isC:
-    citations: 2
+    citations: 3
     title: 'Bridging llms and symbolic reasoning in educational qa systems: Insights from the xai challenge at ijcnn 2025'
     year: '2025'
   w1o63XAAAAAJ:8k81kl-MbHgC:
@@ -49,12 +49,16 @@ papers:
     citations: 1
     title: '10X Faster Subgraph Matching: Dual Matching Networks with Interleaved Diffusion Attention'
     year: '2023'
+  w1o63XAAAAAJ:ULOm3_A8WrAC:
+    citations: 0
+    title: Proceedings of the 1st Workshop on Language Models for Underserved Communities (LM4UC 2025)
+    year: '2025'
   w1o63XAAAAAJ:UeHWp8X0CEIC:
     citations: 3
     title: Automatic container code recognition using MultiDeep pipeline
     year: '2020'
   w1o63XAAAAAJ:UebtZRa9Y70C:
-    citations: 13
+    citations: 14
     title: 'Supervised learning models for social bot detection: Literature review and benchmark'
     year: '2024'
   w1o63XAAAAAJ:W7OEmFMy1HYC:
@@ -82,7 +86,7 @@ papers:
     title: Explainable neural subgraph matching with learnable multi-hop attention
     year: '2024'
   w1o63XAAAAAJ:d1gkVwhDpl0C:
-    citations: 21
+    citations: 22
     title: 'BeCaked: An Explainable Artificial Intelligence Model for COVID-19 Forecasting'
     year: '2022'
   w1o63XAAAAAJ:eQOLeE2rZwMC:
@@ -90,7 +94,7 @@ papers:
     title: 'Crossing linguistic horizons: Finetuning and comprehensive evaluation of Vietnamese large language models'
     year: '2024'
   w1o63XAAAAAJ:hqOjcs7Dif8C:
-    citations: 0
+    citations: 2
     title: 'The Sound of Syntax: Finetuning and Comprehensive Evaluation of Language Models for Speech Pathology'
     year: '2025'
   w1o63XAAAAAJ:kNdYIx-mwKoC:
