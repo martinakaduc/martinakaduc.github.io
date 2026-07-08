@@ -15,7 +15,7 @@
       institution: National University of Singapore (NUS), Singapore
       year: 2025 - Present
       description:
-        - Research interests in generative models, graph representation learning, and probabilistic machine learning.
+        - Research interests in human-AI alignment, generative models, and probabilistic methods.
         - Advised by Prof. Tan Zhi Xuan
     - title: Master of Engineering
       institution: Ho Chi Minh City University of Technology (HCMUT), VNU-HCM, Vietnam
@@ -86,15 +86,15 @@
 - title: Research Interests
   type: nested_list
   contents:
+    - title: Human-AI Alignment
+      items:
+        - Human-AI Collaboration
+        - AI-Assisted Education
     - title: Generative Models
       items:
         - Large Language Models
         - Diffusion Models
-    - title: Graph Representation Learning
-      items:
-        - Graph Neural Networks
-        - Subgraph Matching
-    - title: Probabilistic Machine Learning
+    - title: Probabilistic Methods
       items:
         - Bayesian Optimization
         - Bayesian Deep Learning

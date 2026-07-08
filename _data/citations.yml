@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-06-05'
+  last_updated: '2026-07-08'
 papers:
   w1o63XAAAAAJ:0EnyYjriUFMC:
-    citations: 7
+    citations: 8
     title: 'Revitalizing bahnaric language through neural machine translation: challenges, strategies, and promising outcomes'
     year: '2024'
   w1o63XAAAAAJ:2osOgNQ5qMEC:
@@ -58,7 +58,7 @@ papers:
     title: Automatic container code recognition using MultiDeep pipeline
     year: '2020'
   w1o63XAAAAAJ:UebtZRa9Y70C:
-    citations: 16
+    citations: 17
     title: 'Supervised learning models for social bot detection: Literature review and benchmark'
     year: '2024'
   w1o63XAAAAAJ:W7OEmFMy1HYC:
@@ -82,7 +82,7 @@ papers:
     title: 'Catching the First Light of Tomorrow: A Hackathon-Based Framework for Introducing High School Students to AI Agents'
     year: '2026'
   w1o63XAAAAAJ:_FxGoFyzp5QC:
-    citations: 5
+    citations: 6
     title: Explainable neural subgraph matching with learnable multi-hop attention
     year: '2024'
   w1o63XAAAAAJ:d1gkVwhDpl0C:
