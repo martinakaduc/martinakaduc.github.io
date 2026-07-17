@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-07-17'
 papers:
   w1o63XAAAAAJ:0EnyYjriUFMC:
-    citations: 8
+    citations: 9
     title: 'Revitalizing bahnaric language through neural machine translation: challenges, strategies, and promising outcomes'
     year: '2024'
   w1o63XAAAAAJ:2osOgNQ5qMEC:
@@ -58,7 +58,7 @@ papers:
     title: Automatic container code recognition using MultiDeep pipeline
     year: '2020'
   w1o63XAAAAAJ:UebtZRa9Y70C:
-    citations: 17
+    citations: 18
     title: 'Supervised learning models for social bot detection: Literature review and benchmark'
     year: '2024'
   w1o63XAAAAAJ:W7OEmFMy1HYC:
@@ -94,7 +94,7 @@ papers:
     title: 'Crossing linguistic horizons: Finetuning and comprehensive evaluation of Vietnamese large language models'
     year: '2024'
   w1o63XAAAAAJ:hqOjcs7Dif8C:
-    citations: 2
+    citations: 3
     title: 'The Sound of Syntax: Finetuning and Comprehensive Evaluation of Language Models for Speech Pathology'
     year: '2025'
   w1o63XAAAAAJ:kNdYIx-mwKoC:
