@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-17'
+  last_updated: '2026-07-22'
 papers:
   w1o63XAAAAAJ:0EnyYjriUFMC:
     citations: 9
@@ -14,7 +14,7 @@ papers:
     title: 'Unlocking the Potential: an evaluation of Text-to-Speech Models for the Bahnar Language'
     year: '2023'
   w1o63XAAAAAJ:5nxA0vEk-isC:
-    citations: 3
+    citations: 4
     title: 'Bridging llms and symbolic reasoning in educational qa systems: Insights from the xai challenge at ijcnn 2025'
     year: '2025'
   w1o63XAAAAAJ:8k81kl-MbHgC:
@@ -58,7 +58,7 @@ papers:
     title: Automatic container code recognition using MultiDeep pipeline
     year: '2020'
   w1o63XAAAAAJ:UebtZRa9Y70C:
-    citations: 18
+    citations: 19
     title: 'Supervised learning models for social bot detection: Literature review and benchmark'
     year: '2024'
   w1o63XAAAAAJ:W7OEmFMy1HYC:
@@ -74,7 +74,7 @@ papers:
     title: 'BeCaked: An Explainable Artificial Intelligence Model For COVID-19 Forecasting (preprint)'
     year: '2021'
   w1o63XAAAAAJ:YsMSGLbcyi4C:
-    citations: 0
+    citations: 1
     title: A Novel Approach for Non-Query Fake News Detection Using K-SOM and Graph Neural Networks
     year: '2023'
   w1o63XAAAAAJ:Zph67rFs4hoC:
@@ -90,7 +90,7 @@ papers:
     title: 'BeCaked: An Explainable Artificial Intelligence Model for COVID-19 Forecasting'
     year: '2022'
   w1o63XAAAAAJ:eQOLeE2rZwMC:
-    citations: 15
+    citations: 16
     title: 'Crossing linguistic horizons: Finetuning and comprehensive evaluation of Vietnamese large language models'
     year: '2024'
   w1o63XAAAAAJ:hqOjcs7Dif8C:
