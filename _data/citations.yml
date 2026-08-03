@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-08-03'
 papers:
   w1o63XAAAAAJ:0EnyYjriUFMC:
     citations: 9
@@ -73,6 +73,10 @@ papers:
     citations: 0
     title: 'BeCaked: An Explainable Artificial Intelligence Model For COVID-19 Forecasting (preprint)'
     year: '2021'
+  w1o63XAAAAAJ:YOwf2qJgpHMC:
+    citations: 0
+    title: 'SiTeBERT: Pose-Based Transformer with Temporal Downsampling for Isolated Sign Language Recognition'
+    year: '2026'
   w1o63XAAAAAJ:YsMSGLbcyi4C:
     citations: 1
     title: A Novel Approach for Non-Query Fake News Detection Using K-SOM and Graph Neural Networks
