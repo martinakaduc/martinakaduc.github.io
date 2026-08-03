@@ -7,49 +7,49 @@ ninja.data = [{
     title: "About",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/~nqduc/";
+      window.location.href = "/";
     },
   },{id: "nav-news",
           title: "News",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/~nqduc/news/";
+            window.location.href = "/news/";
           },
         },{id: "nav-blog",
           title: "Blog",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/~nqduc/blog/";
+            window.location.href = "/blog/";
           },
         },{id: "nav-projects",
           title: "Projects",
           description: "A showcase of my projects categorized by work and fun.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/~nqduc/projects/";
+            window.location.href = "/projects/";
           },
         },{id: "nav-talks",
           title: "Talks",
           description: "Recent and upcoming talks, seminars, and presentations.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/~nqduc/talks/";
+            window.location.href = "/talks/";
           },
         },{id: "nav-publications",
           title: "Publications",
           description: "My publications by categories in reversed chronological order.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/~nqduc/publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-cv",
           title: "CV",
           description: "Curriculum Vitae of Nguyen Quang Duc",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/~nqduc/cv/";
+            window.location.href = "/cv/";
           },
         },{id: "post-the-prolonged-uncertainty-of-the-phd-application-period",
         
@@ -59,7 +59,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/~nqduc/blog/2025/phd-application/";
+            window.location.href = "/blog/2025/phd-application/";
           
         },
       },{id: "post-the-valentine-39-s-day-story",
@@ -70,7 +70,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/~nqduc/blog/2023/valentine-day/";
+            window.location.href = "/blog/2023/valentine-day/";
           
         },
       },{id: "post-self-learning",
@@ -81,7 +81,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/~nqduc/blog/2021/self-learning/";
+            window.location.href = "/blog/2021/self-learning/";
           
         },
       },{id: "post-for-growing-us",
@@ -92,7 +92,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/~nqduc/blog/2020/for-growing-us/";
+            window.location.href = "/blog/2020/for-growing-us/";
           
         },
       },{id: "post-be-yourself",
@@ -103,7 +103,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/~nqduc/blog/2020/be-yourself/";
+            window.location.href = "/blog/2020/be-yourself/";
           
         },
       },{id: "post-childhood",
@@ -114,7 +114,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/~nqduc/blog/2019/childhood/";
+            window.location.href = "/blog/2019/childhood/";
           
         },
       },{id: "post-time-to-be-happy",
@@ -125,7 +125,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/~nqduc/blog/2019/time-to-be-happy/";
+            window.location.href = "/blog/2019/time-to-be-happy/";
           
         },
       },{id: "post-is-white-the-color-of-purity-and-innocence",
@@ -136,7 +136,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/~nqduc/blog/2019/the-white/";
+            window.location.href = "/blog/2019/the-white/";
           
         },
       },{id: "post-try-talking-to-everyone-in-your-family-that-you-have-won-a-lottery-ticket-but-burned-it",
@@ -147,7 +147,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/~nqduc/blog/2019/burning-lottery-ticket/";
+            window.location.href = "/blog/2019/burning-lottery-ticket/";
           
         },
       },{id: "post-why-did-shizuka-choose-nobita-instead-of-dekisugi-suneo-or-jaian",
@@ -158,14 +158,14 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/~nqduc/blog/2019/nobita-xuka/";
+            window.location.href = "/blog/2019/nobita-xuka/";
           
         },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/~nqduc/books/the_godfather/";
+              window.location.href = "/books/the_godfather/";
             },},{id: "news-began-undergraduate-studies-in-computer-science-at-ho-chi-minh-city-university-of-technology-hcmut-vietnam-national-university",
           title: '🎓 Began undergraduate studies in Computer Science at Ho Chi Minh City University...',
           description: "",
@@ -197,7 +197,7 @@ ninja.data = [{
           title: '🎓 Graduated with Bachelor of Engineering from HCMUT - VNU-HCM!',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/~nqduc/news/announcement_010/";
+              window.location.href = "/news/announcement_010/";
             },},{id: "news-awarded-master-s-scholarship-by-vingroup-innovation-foundation-vinif",
           title: '🎓 Awarded Master’s Scholarship by Vingroup Innovation Foundation (VinIF).',
           description: "",
@@ -211,12 +211,12 @@ ninja.data = [{
           title: '🚀 Released URA-LLaMa: Vietnamese Large Language Models (7B, 13B, 70B parameters)',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/~nqduc/news/announcement_014/";
+              window.location.href = "/news/announcement_014/";
             },},{id: "news-released-mixsura-and-gemsura-vietnamese-large-language-models",
           title: '🚀 Released MixSUra and GemSUra: Vietnamese Large Language Models',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/~nqduc/news/announcement_015/";
+              window.location.href = "/news/announcement_015/";
             },},{id: "news-joined-stair-lab-at-stanford-university-as-visiting-student-researcher",
           title: '🎓 Joined STAIR Lab at Stanford University as Visiting Student Researcher.',
           description: "",
@@ -239,58 +239,58 @@ ninja.data = [{
           title: 'Automatically Evolving Multi-agent Deep Research System',
           description: "Developing AutoEDP, an autonomous framework that continuously refines LLMs for deep research through closed-loop self-improvement",
           section: "Projects",handler: () => {
-              window.location.href = "/~nqduc/projects/deep_research/";
+              window.location.href = "/projects/deep_research/";
             },},{id: "projects-drug-discovery",
           title: 'Drug Discovery',
           description: "AI-powered drug discovery for COVID-19 and beyond",
           section: "Projects",handler: () => {
-              window.location.href = "/~nqduc/projects/drug_discovery/";
+              window.location.href = "/projects/drug_discovery/";
             },},{id: "projects-graph-theory-problems",
           title: 'Graph Theory Problems',
           description: "Using Deep Learning for graph theory and subgraph matching",
           section: "Projects",handler: () => {
-              window.location.href = "/~nqduc/projects/graph_theory/";
+              window.location.href = "/projects/graph_theory/";
             },},{id: "projects-probabilistic-pedagogy-for-accelerated-learning",
           title: 'Probabilistic Pedagogy for Accelerated Learning',
           description: "Exploring how probabilistic models of teacher can accelerate learning through strategic example selection",
           section: "Projects",handler: () => {
-              window.location.href = "/~nqduc/projects/teaching_simulation/";
+              window.location.href = "/projects/teaching_simulation/";
             },},{id: "projects-large-language-models",
           title: 'Large Language Models',
           description: "Developing Vietnamese LLMs and applications",
           section: "Projects",handler: () => {
-              window.location.href = "/~nqduc/projects/vietnamese_llm/";
+              window.location.href = "/projects/vietnamese_llm/";
             },},{id: "talks-diffusion-models-from-theory-to-experiments",
           title: 'Diffusion models: From Theory to Experiments',
           description: "A talk on diffusion models and their applications in computer vision.",
           section: "Talks",handler: () => {
-              window.location.href = "/~nqduc/talks/diffusion_models/";
+              window.location.href = "/talks/diffusion_models/";
             },},{id: "talks-absolutezero-reinforced-self-play-reasoning-with-zero-data",
           title: 'AbsoluteZero: Reinforced Self-play Reasoning with Zero Data',
           description: "A seminar for discussing the recent AbsoluteZero paper.",
           section: "Talks",handler: () => {
-              window.location.href = "/~nqduc/talks/absolutezero/";
+              window.location.href = "/talks/absolutezero/";
             },},{id: "talks-bayesian-theory-of-mind",
           title: 'Bayesian Theory of Mind',
           description: "A seminar for discussing the recent Bayesian Theory of Mind paper.",
           section: "Talks",handler: () => {
-              window.location.href = "/~nqduc/talks/bayesian_tom/";
+              window.location.href = "/talks/bayesian_tom/";
             },},{id: "talks-llms-get-lost-in-multi-turn-conversation",
           title: 'LLMs Get Lost In Multi-Turn Conversation',
           description: "A seminar about evaluating how large language models degrade in performance during multi-turn conversations due to premature assumptions and context loss.",
           section: "Talks",handler: () => {
-              window.location.href = "/~nqduc/talks/multiturn_llms/";
+              window.location.href = "/talks/multiturn_llms/";
             },},{id: "talks-a-practical-introduction-to-the-rational-speech-act-modeling-framework",
           title: 'A Practical Introduction to The Rational Speech Act Modeling Framework',
           description: "A seminar introducing the Rational Speech Act framework, which models language understanding as recursive Bayesian inference.",
           section: "Talks",handler: () => {
-              window.location.href = "/~nqduc/talks/rsa_framework/";
+              window.location.href = "/talks/rsa_framework/";
             },},{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/~nqduc/assets/pdf/cv-nqduc.pdf", "_blank");
+          window.open("/assets/pdf/cv-nqduc.pdf", "_blank");
         },
       },{
         id: 'social-email',

@@ -61,7 +61,7 @@
       "startDate": "2025-08-01",
       "endDate": "",
       "score": "",
-      "courses": ["Generative Models", "Graph Representation Learning", "Probabilistic Machine Learning"]
+      "courses": ["Human-AI Alignment", "Generative Models", "Probabilistic Methods"]
     },
     {
       "institution": "Ho Chi Minh City University of Technology (HCMUT), VNU-HCM",
@@ -238,14 +238,14 @@
   ],
   "interests": [
     {
+      "name": "Human-AI Alignment",
+      "icon": "fa-solid fa-handshake-angle",
+      "keywords": ["Human-AI Collaboration", "AI-Assisted Decision Making"]
+    },
+    {
       "name": "Generative Models",
       "icon": "fa-solid fa-wand-magic-sparkles",
       "keywords": ["Large Language Models", "Diffusion Models"]
-    },
-    {
-      "name": "Graph Representation Learning",
-      "icon": "fa-solid fa-diagram-project",
-      "keywords": ["Graph Neural Networks", "Subgraph Matching"]
     },
     {
       "name": "Probabilistic Machine Learning",
