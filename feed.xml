@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.comp.nus.edu.sg/~nqduc/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.comp.nus.edu.sg/~nqduc/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-08-03T15:44:01+08:00</updated><id>https://www.comp.nus.edu.sg/~nqduc/feed.xml</id><title type="html">blank</title><subtitle>PhD Student at National University of Singapore. Research interests include human-AI alignment, generative models, and probabilistic methods.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.comp.nus.edu.sg/~nqduc/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.comp.nus.edu.sg/~nqduc/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-08-03T15:56:35+08:00</updated><id>https://www.comp.nus.edu.sg/~nqduc/feed.xml</id><title type="html">blank</title><subtitle>PhD Student at National University of Singapore. Research interests include human-AI alignment, generative models, and probabilistic methods.
 </subtitle><entry><title type="html">The Prolonged Uncertainty of the PhD Application Period</title><link href="https://www.comp.nus.edu.sg/~nqduc/blog/2025/phd-application/" rel="alternate" type="text/html" title="The Prolonged Uncertainty of the PhD Application Period" /><published>2025-03-27T08:10:00+08:00</published><updated>2025-03-27T08:10:00+08:00</updated><id>https://www.comp.nus.edu.sg/~nqduc/blog/2025/phd-application</id><content type="html" xml:base="https://www.comp.nus.edu.sg/~nqduc/blog/2025/phd-application/"><![CDATA[<div class="row mt-3">
     <div class="col-sm mx-auto">
         
@@ -14,10 +14,10 @@
     -->
     
       
-        <source class="responsive-img-srcset" srcset="/assets/img/posts/phd-application-480.webp 480w,/assets/img/posts/phd-application-800.webp 800w,/assets/img/posts/phd-application-1400.webp 1400w," type="image/webp" sizes="95vw" />
+        <source class="responsive-img-srcset" srcset="/~nqduc/assets/img/posts/phd-application-480.webp 480w,/~nqduc/assets/img/posts/phd-application-800.webp 800w,/~nqduc/assets/img/posts/phd-application-1400.webp 1400w," type="image/webp" sizes="95vw" />
       
     
-    <img src="/assets/img/posts/phd-application.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/~nqduc/assets/img/posts/phd-application.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
@@ -67,10 +67,10 @@
     -->
     
       
-        <source class="responsive-img-srcset" srcset="/assets/img/posts/valentine-day-480.webp 480w,/assets/img/posts/valentine-day-800.webp 800w,/assets/img/posts/valentine-day-1400.webp 1400w," type="image/webp" sizes="95vw" />
+        <source class="responsive-img-srcset" srcset="/~nqduc/assets/img/posts/valentine-day-480.webp 480w,/~nqduc/assets/img/posts/valentine-day-800.webp 800w,/~nqduc/assets/img/posts/valentine-day-1400.webp 1400w," type="image/webp" sizes="95vw" />
       
     
-    <img src="/assets/img/posts/valentine-day.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/~nqduc/assets/img/posts/valentine-day.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
@@ -116,10 +116,10 @@
     -->
     
       
-        <source class="responsive-img-srcset" srcset="/assets/img/posts/self-learning-480.webp 480w,/assets/img/posts/self-learning-800.webp 800w,/assets/img/posts/self-learning-1400.webp 1400w," type="image/webp" sizes="95vw" />
+        <source class="responsive-img-srcset" srcset="/~nqduc/assets/img/posts/self-learning-480.webp 480w,/~nqduc/assets/img/posts/self-learning-800.webp 800w,/~nqduc/assets/img/posts/self-learning-1400.webp 1400w," type="image/webp" sizes="95vw" />
       
     
-    <img src="/assets/img/posts/self-learning.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/~nqduc/assets/img/posts/self-learning.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
@@ -153,10 +153,10 @@
     -->
     
       
-        <source class="responsive-img-srcset" srcset="/assets/img/posts/for-growing-us-480.webp 480w,/assets/img/posts/for-growing-us-800.webp 800w,/assets/img/posts/for-growing-us-1400.webp 1400w," type="image/webp" sizes="95vw" />
+        <source class="responsive-img-srcset" srcset="/~nqduc/assets/img/posts/for-growing-us-480.webp 480w,/~nqduc/assets/img/posts/for-growing-us-800.webp 800w,/~nqduc/assets/img/posts/for-growing-us-1400.webp 1400w," type="image/webp" sizes="95vw" />
       
     
-    <img src="/assets/img/posts/for-growing-us.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/~nqduc/assets/img/posts/for-growing-us.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
@@ -204,10 +204,10 @@
     -->
     
       
-        <source class="responsive-img-srcset" srcset="/assets/img/posts/be-yourself-480.webp 480w,/assets/img/posts/be-yourself-800.webp 800w,/assets/img/posts/be-yourself-1400.webp 1400w," type="image/webp" sizes="95vw" />
+        <source class="responsive-img-srcset" srcset="/~nqduc/assets/img/posts/be-yourself-480.webp 480w,/~nqduc/assets/img/posts/be-yourself-800.webp 800w,/~nqduc/assets/img/posts/be-yourself-1400.webp 1400w," type="image/webp" sizes="95vw" />
       
     
-    <img src="/assets/img/posts/be-yourself.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/~nqduc/assets/img/posts/be-yourself.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
@@ -233,10 +233,10 @@
     -->
     
       
-        <source class="responsive-img-srcset" srcset="/assets/img/posts/childhood-480.webp 480w,/assets/img/posts/childhood-800.webp 800w,/assets/img/posts/childhood-1400.webp 1400w," type="image/webp" sizes="95vw" />
+        <source class="responsive-img-srcset" srcset="/~nqduc/assets/img/posts/childhood-480.webp 480w,/~nqduc/assets/img/posts/childhood-800.webp 800w,/~nqduc/assets/img/posts/childhood-1400.webp 1400w," type="image/webp" sizes="95vw" />
       
     
-    <img src="/assets/img/posts/childhood.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/~nqduc/assets/img/posts/childhood.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
@@ -274,10 +274,10 @@ Do you still think so now?</p>
     -->
     
       
-        <source class="responsive-img-srcset" srcset="/assets/img/posts/time-to-be-happy-480.webp 480w,/assets/img/posts/time-to-be-happy-800.webp 800w,/assets/img/posts/time-to-be-happy-1400.webp 1400w," type="image/webp" sizes="95vw" />
+        <source class="responsive-img-srcset" srcset="/~nqduc/assets/img/posts/time-to-be-happy-480.webp 480w,/~nqduc/assets/img/posts/time-to-be-happy-800.webp 800w,/~nqduc/assets/img/posts/time-to-be-happy-1400.webp 1400w," type="image/webp" sizes="95vw" />
       
     
-    <img src="/assets/img/posts/time-to-be-happy.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/~nqduc/assets/img/posts/time-to-be-happy.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
@@ -301,10 +301,10 @@ Do you still think so now?</p>
     -->
     
       
-        <source class="responsive-img-srcset" srcset="/assets/img/posts/the-white-480.webp 480w,/assets/img/posts/the-white-800.webp 800w,/assets/img/posts/the-white-1400.webp 1400w," type="image/webp" sizes="95vw" />
+        <source class="responsive-img-srcset" srcset="/~nqduc/assets/img/posts/the-white-480.webp 480w,/~nqduc/assets/img/posts/the-white-800.webp 800w,/~nqduc/assets/img/posts/the-white-1400.webp 1400w," type="image/webp" sizes="95vw" />
       
     
-    <img src="/assets/img/posts/the-white.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/~nqduc/assets/img/posts/the-white.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
@@ -393,10 +393,10 @@ Swifts are coming back with the spring.</p>
     -->
     
       
-        <source class="responsive-img-srcset" srcset="/assets/img/posts/burning-lottery-ticket-480.webp 480w,/assets/img/posts/burning-lottery-ticket-800.webp 800w,/assets/img/posts/burning-lottery-ticket-1400.webp 1400w," type="image/webp" sizes="95vw" />
+        <source class="responsive-img-srcset" srcset="/~nqduc/assets/img/posts/burning-lottery-ticket-480.webp 480w,/~nqduc/assets/img/posts/burning-lottery-ticket-800.webp 800w,/~nqduc/assets/img/posts/burning-lottery-ticket-1400.webp 1400w," type="image/webp" sizes="95vw" />
       
     
-    <img src="/assets/img/posts/burning-lottery-ticket.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/~nqduc/assets/img/posts/burning-lottery-ticket.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
@@ -426,10 +426,10 @@ Swifts are coming back with the spring.</p>
     -->
     
       
-        <source class="responsive-img-srcset" srcset="/assets/img/posts/nobita-xuka-480.webp 480w,/assets/img/posts/nobita-xuka-800.webp 800w,/assets/img/posts/nobita-xuka-1400.webp 1400w," type="image/webp" sizes="95vw" />
+        <source class="responsive-img-srcset" srcset="/~nqduc/assets/img/posts/nobita-xuka-480.webp 480w,/~nqduc/assets/img/posts/nobita-xuka-800.webp 800w,/~nqduc/assets/img/posts/nobita-xuka-1400.webp 1400w," type="image/webp" sizes="95vw" />
       
     
-    <img src="/assets/img/posts/nobita-xuka.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/~nqduc/assets/img/posts/nobita-xuka.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
