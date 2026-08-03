@@ -25,4 +25,4 @@ Our results show that learning is most efficient when a rational student interac
 ## Resources
 
 - [Project Repository](https://github.com/martinakaduc/teaching_simulation)
-- [Final Report](/assets/projects/CS6101_Teaching_Simulation.pdf)
+- [Final Report](/assets/pdf/projects/CS6101_Teaching_Simulation.pdf)
