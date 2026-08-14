@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-14'
 papers:
   w1o63XAAAAAJ:0EnyYjriUFMC:
     citations: 8
@@ -94,7 +94,7 @@ papers:
     title: 'BeCaked: An Explainable Artificial Intelligence Model for COVID-19 Forecasting'
     year: '2022'
   w1o63XAAAAAJ:eQOLeE2rZwMC:
-    citations: 16
+    citations: 17
     title: 'Crossing linguistic horizons: Finetuning and comprehensive evaluation of Vietnamese large language models'
     year: '2024'
   w1o63XAAAAAJ:hqOjcs7Dif8C:
