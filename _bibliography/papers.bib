@@ -61,7 +61,6 @@
 	year = {2022},
 	keywords = {Coronavirus, COVID-19, Drug-Target Interaction, Drugs, Graph neural networks, Graph Neural Networks, Multi-hop Gating Mechanism, Proteins, Spread spectrum communication, Transfer learning, Vaccines},
 	pages = {275--280},
-	selected = {true},
 	award_name = {Best Paper Award},
 	award = {Best Paper Award in NICS 2022},
 	pdf = {papers/Nguyen et al. - 2022 - Towards De Novo Drug Design for the Coronavirus A Drug-Target Interaction Prediction Approach using Atom-enhanced Graph Neural Network with Multi-hop Gating Mechanism.pdf},
@@ -313,7 +312,7 @@ However, translating Vietnamese to Bahnar language faces practical hurdles due t
 	urldate = {2025-09-08},
 	booktitle = {Findings of the {Association} for {Computational} {Linguistics}: {NAACL} 2024},
 	publisher = {Association for Computational Linguistics},
-	author = {Truong, Sang and Nguyen, Duc and Nguyen, Toan and Le, Dong and Truong, Nhi and Quan, Tho and Koyejo, Sanmi},
+	author = {Truong, Sang T. and Nguyen, Duc Q. and Nguyen, Toan and Le, Dong and Truong, Nhi and Quan, Tho and Koyejo, Sanmi},
 	editor = {Duh, Kevin and Gomez, Helena and Bethard, Steven},
 	month = jun,
 	year = {2024},
@@ -338,7 +337,6 @@ However, translating Vietnamese to Bahnar language faces practical hurdles due t
 	year = {2024},
 	keywords = {graph neural networks, Graph neural networks, Spread spectrum communication, Pattern matching, subgraph matching, Adaptation models, Explainability, learnable multi-hop attention, Multitasking, Object recognition},
 	pages = {130474--130492},
-    selected = {true},
 	pdf = {papers/Nguyen et al. - 2024 - Explainable Neural Subgraph Matching With Learnable Multi-Hop Attention.pdf},
 }
 
@@ -423,21 +421,24 @@ However, translating Vietnamese to Bahnar language faces practical hurdles due t
 	abbr= {EMNLP},
 	address = {Suzhou, China},
 	title = {The {Sound} of {Syntax}: {Finetuning} and {Comprehensive} {Evaluation} of {Language} {Models} for {Speech} {Pathology}},
-	copyright = {Creative Commons Attribution-ShareAlike 4.0 International License},
+	copyright = {Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License},
 	isbn = {979-8-89176-332-6},
 	shorttitle = {The {Sound} of {Syntax}},
 	url = {https://aclanthology.org/2025.emnlp-main.1768/},
+	doi = {10.18653/v1/2025.emnlp-main.1768},
 	abstract = {According to the U.S. National Institutes of Health, more than 3.4 million children experience speech disorders that require clinical intervention. The number of speech-language pathologists (SLPs) is roughly 20 times fewer than the number of affected children, highlighting a significant gap in children's care and a pressing need for technological support that improves the productivity of SLPs. State-of-the-art multimodal language models (MLMs) show promise for supporting SLPs, but their use remains underexplored largely due to a limited understanding of their performance in high-stakes clinical settings. To address this gap, we collaborate with domain experts to develop a taxonomy of real-world use cases of MLMs in speech-language pathologies. Building on this taxonomy, we introduce the first comprehensive benchmark for evaluating MLM across five core use cases, each containing 1,000 manually annotated data points. This benchmark includes robustness and sensitivity tests under various settings, including background noise, speaker gender, and accent. Our evaluation of 15 state-of-the-art MLMs reveals that no single model consistently outperforms others across all tasks. Notably, we find systematic disparities, with models performing better on male speakers, and observe that chain-of-thought prompting can degrade performance on classification tasks with large label spaces and narrow decision boundaries. Furthermore, we study fine-tuning MLMs on domain-specific data, achieving improvements of over 30\% compared to base models. These findings highlight both the potential and limitations of current MLMs for speech-language pathology applications, underscoring the need for further research and targeted development.},
-	urldate = {2025-11-05},
+	urldate = {2026-11-17},
 	booktitle = {Proceedings of the 2025 {Conference} on {Empirical} {Methods} in {Natural} {Language} {Processing}},
 	publisher = {Association for Computational Linguistics},
 	author = {Patel, Fagun and Nguyen, Duc Q. and Truong, Sang T. and Vaynshtok, Jody and Koyejo, Sanmi and Haber, Nick},
 	editor = {Christodoulopoulos, Christos and Chakraborty, Tanmoy and Rose, Carolyn and Peng, Violet},
-	month = oct,
+	month = nov,
 	year = {2025},
-	pages = {34895--34913},
+	pages = {34907--34925},
+	selected = {true},
 	pdf = {papers/Patel et al. - 2025 - The Sound of Syntax Finetuning and Comprehensive Evaluation of Language Models for Speech Pathology.pdf},
 }
+
 
 @inproceedings{pham_fa-gpnet_2026,
 	bibtex_show = {true},
@@ -502,6 +503,29 @@ However, translating Vietnamese to Bahnar language faces practical hurdles due t
 }
 
 
+@inproceedings{patel_dataset_2026,
+	bibtex_show = {true},
+	abbr = {EMNLP},
+	address = {Budapest, Hungary},
+	title = {A {Dataset} for {Modeling} {Iterative} {Problem}-{Solving}},
+	copyright = {Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License},
+	isbn = {979-8-89176-462-0},
+	url = {https://aclanthology.org/2026.findings-emnlp.2179/},
+	doi = {10.18653/2026.findings-emnlp.2179},
+	abstract = {Solving problems through repeated attempts is a sequential modeling task: at each step, the solver receives feedback and decides how to revise their solutions. Predicting whether performance improves, plateaus, or regresses across attempts is central to understanding any iterative problem-solving process in both human learners and autonomous agents. Beyond outcomes, modeling what errors persist and how strategies shift across attempts provides deeper insight into the mechanics of sequential learning. Studying these dynamics requires observing many solvers as they attempt, receive feedback, and revise. Programming courses with automated grading provide this setting, as students iteratively submit code to test suites and receive feedback on every attempt. We therefore curate CodeInsight, a large-scale dataset of over 3 million submissions from 3,286 undergraduates across 2 introductory C++ courses in 2 academic years, with test-case-level outcomes, timestamps, and source code. On this dataset, we build a benchmark that evaluates models spanning parametric, sequential, and generative traditions under a shared calibration-and-scoring protocol, including a Recurrent State Space Model (RSSM) adapted to track solver characteristics through discrete latent variables and an LLM-based predictor that generates explicit solutions. The adapted RSSM achieves the strongest predictive accuracy on three of the four courses. The LLM predictor is less accurate but produces full submissions at each attempt, enabling direct analysis of failure modes. We find that the model's coding proficiency is inversely related to predictive performance in this setting, with the LLM better understood as a generative solver conditioned on context rather than a faithful predictor of solver behavior. We publicly release our code and the dataset on request to facilitate future research.},
+	urldate = {2026-11-17},
+	booktitle = {Findings of the {Association} for {Computational} {Linguistics}: {EMNLP} 2026},
+	publisher = {Association for Computational Linguistics},
+	author = {Patel, Fagun and Truong, Sang T. and Nguyen, Duc Q. and Fukuhara, Kazunori and Haber, Nick and Domingue, Ben and Koyejo, Sanmi},
+	editor = {Lee, Hung-Yi and Dev, Sunipa and Li, Jessy and Elliott, Desmond},
+	month = oct,
+	year = {2026},
+	pages = {46590--46620},
+	selected = {true},
+	pdf = {papers/Patel et al. - 2026 - A Dataset for Modeling Iterative Problem-Solving.pdf},
+}
+
+
 @inproceedings{pham_sitebert_2027,
 	bibtex_show = {true},
 	address = {Singapore},
@@ -517,5 +541,16 @@ However, translating Vietnamese to Bahnar language faces practical hurdles due t
 	editor = {Fujita, Hamido and Selamat, Ali and Ghazali, Masitah and Ali, Moonis},
 	year = {2027},
 	keywords = {Confusion-aware Training, Isolated Sign Language Recognition, Pose-based Transformer, Temporal Downsampling},
-	pages = {143--154}
+	pages = {143--154},
+	pdf = {papers/Pham et al. - 2027 - SiTeBERT Pose-Based Transformer with Temporal Downsampling for Isolated Sign Language Recognition.pdf},
+}
+
+
+@unpublished{nguyen_language_2027,
+	bibtex_show = {true},
+	title = {Language-{Informed} {Bayesian} {Knowledge} {Tracing} from {Open}-{Ended} {Responses}},
+	abstract = {Knowledge tracing (KT) is a widely used educational technology for modeling students' learning as they answer curricular questions. However, classical probabilistic methods such as Bayesian KT are restricted to closed-ended questions, limiting their usefulness. We thus introduce Language-Informed Bayesian Knowledge Tracing (LIBKT), a generative Bayesian architecture that infers students' mastery from open-ended responses by using large language models (LLMs) to process arbitrary language. LIBKT (i) infers binary rubric scores from open-ended answers via LLM grading; (ii) conditions on these scores to infer students' mastery over skills; (iii) uses these inferences to predict rubric scores and open-ended answers to future questions. Across two KT datasets of open-ended programming questions, LIBKT outperforms LLM baselines, LLM-augmented classical methods, and specialized deep KT models in accuracy, while inferring interpretable skills and using much fewer fitted parameters than deep KT models. Our results thus demonstrate the value of combining structured probabilistic methods with the language processing abilities of LLMs.},
+	author = {Nguyen, Duc Q. and Tan, Zhi-Xuan},
+	year = {2027},
+	selected = {true},
 }
